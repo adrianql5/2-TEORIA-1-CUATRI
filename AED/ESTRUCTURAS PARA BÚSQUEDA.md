@@ -5,7 +5,7 @@ Un uso importante de los árboles, especialmente de los **árboles binarios**, e
 
 Presenta clara ventaja de que **localizar un elemento** es muy fácil y rápido, al estar todos los datos ordenados.
 Además, al realizarle el **recorrido inorden**, lo elementos se imprimen ordenados de menor a mayor. 
-![[Pasted image 20240930000658.png]]
+![[Archivos/Pasted image 20240930000658.png]]
 ## Inserción
 En un **ABB** la inserción no se puede realizar en el pirmer hueco libre que se vea, sino que hay que respetar la estructura, buscando desde la **raíz** el hueco correspondiente al nodo que queremos isnertar. Por lo tanto, la **inserción es recursiva**, ya que se parte del **nodo raíz** y se va mirando si el eleemento que queremos insertar es **menor o mayor**, bajadno por la rama correspondiente hasta enconrar su sitio.
 COmo clara desvantaja de este tipo de árbol, tenemos el caso en el que la mayor parte de los elementos que se inserten sea mayores o menores que el nodo raíz, porvocando un **árbol desbalanceado**, lo que además **aumenta el tiempo de búsqueda**, al tener que recorresr muchos elementos, como si se tratase de una lista.
@@ -28,7 +28,7 @@ void insertar(abb *A, tipoelem E) {
 	}
 }
 ```
-![[Pasted image 20240930001610.png]]
+![[Archivos/Pasted image 20240930001610.png]]
 ## Eliminación
 La desventaja en el caso de la eliminación reside en tener que **reestructurar** el árbol si se eliminan ciertos nodos, para mantener la estructura que cumpla las restricciones de los **ABB**. Existen 3 posibles situaciones de eliminación:
 - **Si el nodo es hoja**, se suprime del árbol sin más
@@ -65,7 +65,7 @@ void suprimir(abb *A, tipoelem E) {
 	}
 }
 ```
-![[Pasted image 20240930001829.png]]
+![[Archivos/Pasted image 20240930001829.png]]
 
 # Montículo binario
 **Árbol binario completo** que da soporte eficiente a las operaciones del **TAD** *cola de prioridad* . Por tanto, sus aplicaciones son las mismas que las aplicaciones de una cola con prioridad.
@@ -78,7 +78,7 @@ Igual que el resto de los árboles binarios, cada elemento consta de su valor y 
 ### Estática
 Se representa los elementos del árbol dentro de un **array**., usando el índice de cada elemento como localizador (*puntero*) de su padre o de sus hijos. De esta forma, **el hijo izquierdo** de *k* se sitúa en la posición *2k* y el **hijo derecho** en la posición *2k+1* , mientras que su padre entra en la posición *k/2*.
 Esta representación facilita las operaciones de búsqueda tanto en simplicidad como en tiempo de ejecución, pero se requiere conocer el número máximo de elementos de antemano. Además, el hecho de ressturcturar el árbol se hace más difícil en este tipo de implementaciones.
-![[Pasted image 20240930003158.png]]
+![[Archivos/Pasted image 20240930003158.png]]
 
 ## Inserción
 Como **árbol binario completo** que es, la inserción se hace en el hueco libre más a la izquierda del último nivel. Sin embargo, si se inserta un elemento con un valor menor que su padre, es necesario **reorganizar** el árbol intercambiando el elemento con su padre hasta llegar una posición en la que se cumpla el criterio.
@@ -105,7 +105,7 @@ void insertar(cola *C, tipoelem E, int prioridad){
 	(*C)->datos[I].prioridad=prioridad;
 }
 ```
-![[Pasted image 20240930003534.png]]
+![[Archivos/Pasted image 20240930003534.png]]
 
 ## Eliminación
 EN este tipo de árboles, el elemento que se quiere suprimir es siemrpe el de mayor prioridad, es decir, la raíz. Para llevar a cabo esta operación, el **nodo raíz se intercambia de posición con el nodo hoja más a la derecha**, y una vez allí se elimina. A continuación se procese a la reorganización del nuevo nodo raíz hasta encontrar su sitio, intercambiandolo con el hijo menor en cada caso.
@@ -137,7 +137,7 @@ void suprimir(cola *C){
 	(*C)->datos[I].prioridad=prioridad;
 }
 ```
-![[Pasted image 20240930003856.png]]
+![[Archivos/Pasted image 20240930003856.png]]
 
 ## Monticulación o heapify
 Consiste en:
@@ -146,5 +146,5 @@ Consiste en:
 -Comprobar si cada nodo del nivel i cumple la regla del orden parcial, es decir , es menor o mayor que sus hijos. Si no la cumple, intercambiar con elmayor/menor de sus hijos.
 -Propagar esta comparación  hacia los niveles de i hasta L-1
 
-![[Pasted image 20240930004535.png]]
-![[Pasted image 20240930004554.png]]
+![[Archivos/Pasted image 20240930004535.png]]
+![[Archivos/Pasted image 20240930004554.png]]

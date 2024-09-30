@@ -4,7 +4,7 @@ Es un **programa** (*un componente puramente software*) cuyas funciones son 2 pr
 * **Proporcionar** al programador **un conjunto abstracto de recursos**, como la abstracción de la memoria o la interacción con el teclado.
 El S.O. gestiona la memoria a través del movimiento de información entre los diferentes niveles de jerarquía. Se responsabiliza de la información transmitida entre la cache y la RAM o entre RAM y disco duro. Sin embargo no gestiona los niveles caché y su funcionamiento (*gestión* *hardware*).
 
-![[Pasted image 20240926175400.png]]
+![[archivos/Pasted image 20240926175400.png]]
 
 El S.0
 . ignora las características de los dispositivos de E/S, solo interactúa con sus controladoras:
@@ -28,7 +28,7 @@ Hay un único bus compartido. Es controlado por la misma CPU y en cada ciclo de 
 
 # Niveles de Abstracción
 En la parte más baja de la abstracción está el **hardware**, con los circuitos. Cualquier cosa por encima es **software**. Entre ambos la comunicación se hace a través del **lenguaje máquina**.
-![[Pasted image 20240926175823.png]]
+![[archivos/Pasted image 20240926175823.png]]
 En la siguiente capa está el **software de base** (*nivel bajo de abstracción*),  encargado de manejar directamente las funcionalidades y gestión del hardware. Aquí está el SO.
 Esto es el **kernel** o el núcleo del SO, un conjunto de funciones que sirven para manejar las llamadas al sistema, interrupciones, dispositivos E/S, memoria (*resuelve muchos problemas*).
 

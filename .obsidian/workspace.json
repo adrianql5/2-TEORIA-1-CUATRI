@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "ca6d93d7d9157a4f",
+        "id": "9259d6a32f29a02e",
         "type": "tabs",
         "children": [
           {
-            "id": "cdc0ff1a0324c502",
+            "id": "9c3a98b39e318ecb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TEORÍA REDES/1. Introducción.md",
+                "file": "AED/ÁRBOLES BINARIOS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d81b6cb49df394bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AED/ÁRBOLES BINARIOS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TEORÍA REDES/1. Introducción.md",
+                "file": "AED/ÁRBOLES BINARIOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TEORÍA REDES/1. Introducción.md",
+                "file": "AED/ÁRBOLES BINARIOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,32 +138,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TEORÍA REDES/1. Introducción.md"
+                "file": "AED/ÁRBOLES BINARIOS.md"
               }
-            }
-          },
-          {
-            "id": "822c4888ac2d447a",
-            "type": "leaf",
-            "state": {
-              "type": "quiet-outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "fcdfe414e173c5bb",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,14 +157,27 @@
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e076035a03e0a73e",
+  "active": "d81b6cb49df394bc",
   "lastOpenFiles": [
+    "AED/Archivos/Pasted image 20240926162942.png",
+    "REDES/2. Capa de Aplicación.md",
+    "REDES/archivos/Pasted image 20240926211210.png",
+    "REDES/archivos/Pasted image 20240926205653.png",
+    "REDES/archivos/Pasted image 20240926212522.png",
+    "AED/ÁRBOLES BINARIOS.md",
+    "REDES/archivos/Pasted image 20240929184949.png",
+    "SISTEMAS OPERATIVOS/PROCESOS E HILOS.md",
+    "BASES DE DATOS/1. MODELO ENTIDAD RELACIÓN.md",
+    "BASES DE DATOS/Archivos/Pasted image 20240926111906.png",
+    "BASES DE DATOS/Archivos/Pasted image 20240926112058.png",
+    "Pasted image 20240930191952.png",
+    "BASES DE DATOS/Archivos/Pasted image 20240926114859.png",
+    "BASES DE DATOS/Archivos/Pasted image 20240926114823.png",
+    "BASES DE DATOS/Archivos/Pasted image 20240926112138.png",
+    "REDES/1. Introducción.md",
     "AED/QuirogaLinaresAdrian_2 /EntregaSesion2/recorridos.h",
     "AED/QuirogaLinaresAdrian_2 /EntregaSesion2/recorridos.c",
     "AED/QuirogaLinaresAdrian_2 /EntregaSesion2/pilaOperandos.h",
@@ -177,26 +188,10 @@
     "AED/QuirogaLinaresAdrian_2 /EntregaSesion2/abin.h",
     "AED/QuirogaLinaresAdrian_2 /EntregaSesion2/abin.c",
     "AED/QuirogaLinaresAdrian_2 /EntregaSesion2/FuncionesExpresion.h",
-    "AED/QuirogaLinaresAdrian_2 /EntregaSesion2/FuncionesExpresion.c",
-    "TEORÍA AED/ESTRUCTURAS PARA BÚSQUEDA.md",
-    "TEORÍA AED/Archivos/Pasted image 20240930004554.png",
-    "TEORÍA AED/Archivos/Pasted image 20240930004535.png",
-    "TEORÍA AED/Archivos/Pasted image 20240930003856.png",
-    "TEORÍA AED/Archivos/Pasted image 20240930003744.png",
-    "TEORÍA AED/Archivos/Pasted image 20240930003534.png",
-    "TEORÍA AED/Archivos/Pasted image 20240930003158.png",
-    "TEORÍA AED/Archivos/Pasted image 20240930001829.png",
-    "TEORÍA AED/Archivos/Pasted image 20240930001610.png",
-    "TEORÍA AED/Archivos/Pasted image 20240930000927.png",
-    "TEORÍA AED/Archivos/Pasted image 20240930000658.png",
-    "TEORÍA AED/ÁRBOLES BINARIOS.md",
-    "TEORÍA BASES DE DATOS/2. MODELO RELACIONAL.md",
-    "TEORÍA REDES/1. Introducción.md",
-    "TEORÍA BASES DE DATOS/1.1 Casos MER.md",
-    "TEORÍA BASES DE DATOS/1. MODELO ENTIDAD RELACIÓN.md",
-    "TEORÍA SISTEMAS OPERATIVOS/PROCESOS E HILOS.md",
-    "TEORÍA SISTEMAS OPERATIVOS/INTRODUCCIÓN A LOS SISTEMAS OPERATIVOS.md",
-    "TEORÍA REDES/2. Capa de Aplicación.md",
+    "AED/ESTRUCTURAS PARA BÚSQUEDA.md",
+    "BASES DE DATOS/2. MODELO RELACIONAL.md",
+    "BASES DE DATOS/1.1 Casos MER.md",
+    "SISTEMAS OPERATIVOS/INTRODUCCIÓN A LOS SISTEMAS OPERATIVOS.md",
     "Pasted image 20240929131116png.md",
     "**Fiber.md",
     "Correspondencia.md",

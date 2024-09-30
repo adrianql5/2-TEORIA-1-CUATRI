@@ -1,4 +1,9 @@
 {
   "spellcheck": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "vimMode": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "root",
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "/"
 }

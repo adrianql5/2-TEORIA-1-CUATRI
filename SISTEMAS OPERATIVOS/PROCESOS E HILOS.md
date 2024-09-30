@@ -6,4 +6,4 @@ Si hay solo una CPU, no hay ejecucion concurrente debido a que solo se puede eje
 
 A lo largo del tiempo se ejecutan varias partes de los porcesos de forma secuencial. CUando un proceso no haya termiando su ejecuión antes de haber perdido la CPU, cuando sea posible se reanudara en el mismo puntoq ue esta antes del **cambio de contexto** . EL usario tendrá la sensación de que se ejecutan en paralelo, por lo que los cambios de contexto se hacen de forma transparente al usuario.
 
-![[Pasted image 20240926185935.png]]
+![[archivos/Pasted image 20240926185935.png]]
