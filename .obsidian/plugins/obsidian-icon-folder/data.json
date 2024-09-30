@@ -1,0 +1,52 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiSearch",
+      "🌲",
+      "🖼",
+      "LiTrees",
+      "🙆‍♀️"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  },
+  "TEORÍA REDES": "LiNetwork",
+  "TEORÍA REDES/1. Introducción.md": "LiWifi",
+  "TEORÍA REDES/2. Capa de Aplicación.md": "LiAppWindow",
+  "TEORÍA SISTEMAS OPERATIVOS": "LiComputer",
+  "TEORÍA SISTEMAS OPERATIVOS/INTRODUCCIÓN A LOS SISTEMAS OPERATIVOS.md": "🖥",
+  "TEORÍA SISTEMAS OPERATIVOS/PROCESOS E HILOS.md": "🧵",
+  "TEORÍA SISTEMAS OPERATIVOS/archivos": "LiImage",
+  "TEORÍA BASES DE DATOS": "LiDatabase",
+  "TEORÍA BASES DE DATOS/1. MODELO ENTIDAD RELACIÓN.md": "📔",
+  "TEORÍA BASES DE DATOS/1.1 Casos MER.md": "🙆‍♀️",
+  "TEORÍA BASES DE DATOS/2. MODELO RELACIONAL.md": "📔",
+  "TEORÍA BASES DE DATOS/Archivos": "LiImage",
+  "TEORÍA AED": "LiTrees",
+  "TEORÍA AED/Archivos": "🖼",
+  "TEORÍA AED/ÁRBOLES BINARIOS.md": "🌲",
+  "TEORÍA AED/ESTRUCTURAS PARA BÚSQUEDA.md": "LiSearch"
+}

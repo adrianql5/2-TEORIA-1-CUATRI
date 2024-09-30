@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "91abb3b42504b976",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca6d93d7d9157a4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdc0ff1a0324c502",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TEORÍA REDES/1. Introducción.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72ae11e3666f8fd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9eabf8c4b7bfc7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e076035a03e0a73e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6666305fc735d602",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b1ff5af0c0ceda6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cbc009afb800b7df",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5dc683f70b57a40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d898819892a6cddb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TEORÍA REDES/1. Introducción.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf33de09dd4481ba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TEORÍA REDES/1. Introducción.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "20124cbc720485a1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4b44cd478f9c2571",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TEORÍA REDES/1. Introducción.md"
+              }
+            }
+          },
+          {
+            "id": "822c4888ac2d447a",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "fcdfe414e173c5bb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "e076035a03e0a73e",
+  "lastOpenFiles": [
+    "AED/QuirogaLinaresAdrian_2 /EntregaSesion2/recorridos.h",
+    "AED/QuirogaLinaresAdrian_2 /EntregaSesion2/recorridos.c",
+    "AED/QuirogaLinaresAdrian_2 /EntregaSesion2/pilaOperandos.h",
+    "AED/QuirogaLinaresAdrian_2 /EntregaSesion2/pilaOperandos.c",
+    "AED/QuirogaLinaresAdrian_2 /EntregaSesion2/pilaOperadores.h",
+    "AED/QuirogaLinaresAdrian_2 /EntregaSesion2/pilaOperadores.c",
+    "AED/QuirogaLinaresAdrian_2 /EntregaSesion2/main.c",
+    "AED/QuirogaLinaresAdrian_2 /EntregaSesion2/abin.h",
+    "AED/QuirogaLinaresAdrian_2 /EntregaSesion2/abin.c",
+    "AED/QuirogaLinaresAdrian_2 /EntregaSesion2/FuncionesExpresion.h",
+    "AED/QuirogaLinaresAdrian_2 /EntregaSesion2/FuncionesExpresion.c",
+    "TEORÍA AED/ESTRUCTURAS PARA BÚSQUEDA.md",
+    "TEORÍA AED/Archivos/Pasted image 20240930004554.png",
+    "TEORÍA AED/Archivos/Pasted image 20240930004535.png",
+    "TEORÍA AED/Archivos/Pasted image 20240930003856.png",
+    "TEORÍA AED/Archivos/Pasted image 20240930003744.png",
+    "TEORÍA AED/Archivos/Pasted image 20240930003534.png",
+    "TEORÍA AED/Archivos/Pasted image 20240930003158.png",
+    "TEORÍA AED/Archivos/Pasted image 20240930001829.png",
+    "TEORÍA AED/Archivos/Pasted image 20240930001610.png",
+    "TEORÍA AED/Archivos/Pasted image 20240930000927.png",
+    "TEORÍA AED/Archivos/Pasted image 20240930000658.png",
+    "TEORÍA AED/ÁRBOLES BINARIOS.md",
+    "TEORÍA BASES DE DATOS/2. MODELO RELACIONAL.md",
+    "TEORÍA REDES/1. Introducción.md",
+    "TEORÍA BASES DE DATOS/1.1 Casos MER.md",
+    "TEORÍA BASES DE DATOS/1. MODELO ENTIDAD RELACIÓN.md",
+    "TEORÍA SISTEMAS OPERATIVOS/PROCESOS E HILOS.md",
+    "TEORÍA SISTEMAS OPERATIVOS/INTRODUCCIÓN A LOS SISTEMAS OPERATIVOS.md",
+    "TEORÍA REDES/2. Capa de Aplicación.md",
+    "Pasted image 20240929131116png.md",
+    "**Fiber.md",
+    "Correspondencia.md",
+    "Bases de datos.md"
+  ]
+}
