@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9259d6a32f29a02e",
+        "id": "6f6651338dbd81c8",
         "type": "tabs",
         "children": [
           {
-            "id": "9c3a98b39e318ecb",
+            "id": "a0f39fe88df11872",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AED/ÁRBOLES BINARIOS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d81b6cb49df394bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AED/ÁRBOLES BINARIOS.md",
+                "file": "SISTEMAS OPERATIVOS/PROCESOS E HILOS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AED/ÁRBOLES BINARIOS.md",
+                "file": "SISTEMAS OPERATIVOS/PROCESOS E HILOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AED/ÁRBOLES BINARIOS.md",
+                "file": "SISTEMAS OPERATIVOS/PROCESOS E HILOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +114,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
@@ -138,12 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AED/ÁRBOLES BINARIOS.md"
+                "file": "SISTEMAS OPERATIVOS/PROCESOS E HILOS.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -160,41 +147,52 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d81b6cb49df394bc",
+  "active": "a0f39fe88df11872",
   "lastOpenFiles": [
-    "AED/Archivos/Pasted image 20240926162942.png",
+    "REDES/2.1 Ejercicios Capa de Aplicación.md",
+    "REDES/archivos/ejercicios/SolucionesRedes/Cookies_Solucion.jpg",
     "REDES/2. Capa de Aplicación.md",
-    "REDES/archivos/Pasted image 20240926211210.png",
-    "REDES/archivos/Pasted image 20240926205653.png",
-    "REDES/archivos/Pasted image 20240926212522.png",
-    "AED/ÁRBOLES BINARIOS.md",
-    "REDES/archivos/Pasted image 20240929184949.png",
-    "SISTEMAS OPERATIVOS/PROCESOS E HILOS.md",
-    "BASES DE DATOS/1. MODELO ENTIDAD RELACIÓN.md",
-    "BASES DE DATOS/Archivos/Pasted image 20240926111906.png",
-    "BASES DE DATOS/Archivos/Pasted image 20240926112058.png",
-    "Pasted image 20240930191952.png",
-    "BASES DE DATOS/Archivos/Pasted image 20240926114859.png",
-    "BASES DE DATOS/Archivos/Pasted image 20240926114823.png",
-    "BASES DE DATOS/Archivos/Pasted image 20240926112138.png",
-    "REDES/1. Introducción.md",
-    "AED/QuirogaLinaresAdrian_2 /EntregaSesion2/recorridos.h",
-    "AED/QuirogaLinaresAdrian_2 /EntregaSesion2/recorridos.c",
-    "AED/QuirogaLinaresAdrian_2 /EntregaSesion2/pilaOperandos.h",
-    "AED/QuirogaLinaresAdrian_2 /EntregaSesion2/pilaOperandos.c",
-    "AED/QuirogaLinaresAdrian_2 /EntregaSesion2/pilaOperadores.h",
-    "AED/QuirogaLinaresAdrian_2 /EntregaSesion2/pilaOperadores.c",
-    "AED/QuirogaLinaresAdrian_2 /EntregaSesion2/main.c",
-    "AED/QuirogaLinaresAdrian_2 /EntregaSesion2/abin.h",
-    "AED/QuirogaLinaresAdrian_2 /EntregaSesion2/abin.c",
-    "AED/QuirogaLinaresAdrian_2 /EntregaSesion2/FuncionesExpresion.h",
-    "AED/ESTRUCTURAS PARA BÚSQUEDA.md",
-    "BASES DE DATOS/2. MODELO RELACIONAL.md",
+    "REDES/archivos/ejercicios/Cookies.pdf",
+    "REDES/archivos/ejercicios/SolucionesRedes/PaginaWeb_Solucion2.jpg",
+    "REDES/archivos/ejercicios/SolucionesRedes/PaginaWeb_Solucion1.jpg",
+    "REDES/archivos/ejercicios/SolucionesRedes/UtilizacionARQ_Solucion2.jpg",
+    "REDES/archivos/ejercicios/SolucionesRedes/UtilizacionARQ_Solucion1.jpg",
+    "REDES/archivos/ejercicios/SolucionesRedes/ProtoTipoTCP_solucion.jpg",
+    "REDES/archivos/ejercicios/SolucionesRedes/UtilizacionARQ_Enunciado.pdf",
+    "REDES/archivos/ejercicios/SolucionesRedes/Segmentacion_Solucion.png",
+    "REDES/archivos/ejercicios/SolucionesRedes/Segmentacion_Enunciado.pdf",
+    "REDES/archivos/ejercicios/SolucionesRedes/ProtoTipoTCP_Enunciado.pdf",
+    "REDES/archivos/ejercicios/SolucionesRedes/IMG-20150115-WA0021.jpg",
+    "REDES/archivos/ejercicios/SolucionesRedes/PaginaWeb_Enunciado.pdf",
+    "REDES/archivos/ejercicios/SolucionesRedes/IMG-20150115-WA0020.jpg",
+    "REDES/archivos/ejercicios/SolucionesRedes/IMG-20150115-WA0014.jpg",
+    "REDES/archivos/ejercicios/SolucionesRedes/CabecerasIP.pdf",
+    "REDES/archivos/ejercicios/SolucionesRedes/CDIR.pdf",
+    "REDES/archivos/ejercicios/SolucionesRedes/CheckSumUDP_Enunciado.pdf",
+    "REDES/archivos/ejercicios/SolucionesRedes/CongestionTCP_Enunciado.pdf",
+    "REDES/archivos/ejercicios/SolucionesRedes/Cookies_Enunciado.pdf",
+    "REDES/1.1 Ejercicios Introducción.md",
+    "TAREAS PENDIENTES.md",
+    "BASES DE DATOS/4. Lenguajes Formales de Consulta.md",
+    "BASES DE DATOS/3. Transformación de MER  a MR.md",
     "BASES DE DATOS/1.1 Casos MER.md",
+    "BASES DE DATOS/3.1 Casos Transformación MER a MR.md",
+    "BASES DE DATOS/2.1 Casos MR.md",
+    "BASES DE DATOS/2. MODELO RELACIONAL.md",
+    "BASES DE DATOS/1. MODELO ENTIDAD RELACIÓN.md",
+    "Archivos/bibliografia/bases_datos.pdf.md",
+    "3 Arboles II.md",
+    "2.Arboles.md",
+    "2. Arboles II.md",
+    "AED/3. Árboles Equilibrados AVL.md",
+    "AED/2. ESTRUCTURAS PARA BÚSQUEDA.md",
+    "AED/1. ÁRBOLES BINARIOS.md",
+    "SISTEMAS OPERATIVOS/PROCESOS E HILOS.md",
+    "archivos/Pasted image 20241005172705.png.md",
     "SISTEMAS OPERATIVOS/INTRODUCCIÓN A LOS SISTEMAS OPERATIVOS.md",
-    "Pasted image 20240929131116png.md",
-    "**Fiber.md",
-    "Correspondencia.md",
-    "Bases de datos.md"
+    "REDES/1. Introducción.md",
+    "POO/Encapsulación.md",
+    "POO/Sin título 1.md",
+    "Pasted image 20240929131116png.md"
   ]
 }
