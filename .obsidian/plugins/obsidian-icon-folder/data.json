@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🚄",
+      "🥂",
       "📔",
       "🙆‍♀️",
-      "🫵",
-      "📦",
-      "🔊"
+      "🫵"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -44,8 +44,6 @@
   "REDES/1. Introducción.md": "LiWifi",
   "REDES/2. Capa de Aplicación.md": "LiAppWindow",
   "SISTEMAS OPERATIVOS": "LiComputer",
-  "SISTEMAS OPERATIVOS/INTRODUCCIÓN A LOS SISTEMAS OPERATIVOS.md": "🖥",
-  "SISTEMAS OPERATIVOS/PROCESOS E HILOS.md": "🧵",
   "SISTEMAS OPERATIVOS/archivos": "LiImage",
   "AED/1. ÁRBOLES BINARIOS.md": "🌲",
   "AED/2. ESTRUCTURAS PARA BÚSQUEDA.md": "LiSearch",
@@ -54,9 +52,15 @@
   "BASES DE DATOS/3. Transformación de MER  a MR.md": "📔",
   "POO": "🤵‍♂️",
   "BASES DE DATOS/TODOS LOS MER MR y SQL_300722145848-2.pdf": "🔊",
-  "POO/Encapsulación.md": "📦",
   "REDES/1.1 Ejercicios Introducción.md": "🫵",
   "REDES/2.1 Ejercicios Capa de Aplicación.md": "🫵",
   "BASES DE DATOS/3.1 Casos Transformación MER a MR.md": "🙆‍♀️",
-  "BASES DE DATOS/4. Lenguajes Formales de Consulta.md": "📔"
+  "BASES DE DATOS/4. Lenguajes Formales de Consulta.md": "📔",
+  "POO/1. Encapsulación.md": "📦",
+  "POO/2. Clases y tipos de datos.md": "🥂",
+  "SISTEMAS OPERATIVOS/2. PROCESOS E HILOS.md": "🧵",
+  "SISTEMAS OPERATIVOS/1. INTRODUCCIÓN A LOS SISTEMAS OPERATIVOS.md": "🖥",
+  "BASES DE DATOS/5. Structured Query Lanjuaje (SQL), Tablas y Vistas.md": "📔",
+  "REDES/3.1 Ejercicios Capa de Transporte.md": "🫵",
+  "REDES/3. Capa de Transporte.md": "🚄"
 }

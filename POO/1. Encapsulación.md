@@ -1,0 +1,167 @@
+[[1. Encapsulación - Tipos de datos, clases y objetos.pdf]]
+
+# Tipos de datos
+Los tipos de datos disponibles en un lenguaje de programación limitan enormemente la posibilidades a la hora de crear programas si no es posible representar un tipo de datos concreto, no se podrá operar sobre ellos. El **problema de C** se produce cuando intentamos definir nuevos tipos de datos, su **integridad es limitada**, no podemos **restringir el valor que toman las variables en distintas funciones del programa**.
+![[archivos/imagenes/Pasted image 20241007104840.png]]
+![[archivos/imagenes/Pasted image 20241007104910.png]]
+*JADE* no es un color correcto.
+
+## Encapsulación
+Una de las principales características de la **Programación Orientada a Objetos** es la **Encapsulación**:
+- Se asegura la integridad de los datos, **limitando** los trozos de código del programa que pueden acceder a unos datos dados
+- Idealmente no existe **ningún trozo de código que pueda acceder a todos los datos del programa**.
+- Hace uso del **principio de ocultación**, en virtud del cual solo un trozo de código puede ver un conjunto de datos dado.
+![[archivos/Pasted image 20241007105246.png]]
+
+## Clases
+Los tipos de datos son las **entidades** que se quieren representar en el programa, si es una *persona* necesitaremos saber su *edad*(*int*), *nombre*(*str*)...
+
+En **POO** los tipos de datos (**TADs de Programación II**) se conceptualizan como **clases**. Y sus valores concretos se denominan **objetos**. Por ejemplo *Asia* es un objeto que pertenece a la clase *Continente*.
+
+En Java tenemos los **Tipos Primitivos de C** y a mayores las **Clases**.
+
+Las clases contienen dos tipos de código:
+- **Las variables o atributos** que son las características que definen a la entidad representada por cada clase
+- **Las funciones o métodos** que acceden a los atributos para permitir su lectura y escritura, y para proporcionar la funcionalidad requerida en el programa.
+
+### Encapsulación
+Para resolver **el problema de integridad** de los datos, las **únicas funciones** que pueden acceder a los atributos, tanto para leerlos como para escribir sobre ellos, son las funciones de la clase.
+![[archivos/imagenes/Pasted image 20241007110227.png]]
+### Estructura
+```Java
+public [final | abstract] class <nombreClase>{
+	//Atributos
+	<tipoAcceso> <tipo> <nombreAtritbuto>;
+
+	//Constructores
+	public <nombreClase> (<tipo> <nombre> *){
+		<código>
+	}
+
+	//Getters
+	public <tipoAtributo> get<nombreAtributo>(){
+		return <nombreAtributo>;
+	}
+
+	//Setters
+	public void set<nombreAtributo> (<tipoAtributo> <nombre> *){
+		<código>
+	}
+
+	//Otros métodos
+	<tipoAccesso> <static | final> <tipo> <nombreMétodo> (<tipo> <nombre> *){
+		<código>
+	}
+}
+```
+
+### Tipos de Acceso
+Tenemos **cuatro tipos de acceso**, que se pueden tanto aplicar a los **atributos como a métodos**.
+
+- **Público (public):** Los **métodos públicos** pueden ser invocados desde cualquier **clase del programa**. Los **atributos públicos** pueden ser escritos o leídos desde cualquier método de cualquier clase del programa.
+- **Privado (private):** Los **métodos privados** solo pueden ser invocados desde cualquier **método de la clase a la que pertenecen**. Los **atributos privados**, solo se pueden leer o escribir desde los **métodos de la clase a la que pertenecen**. Para leer y escribir los atributos privados de una clase usamos los métodos: **Getters y Setters**.
+- **Acceso a paquete:** Los **métodos de acceso a paquete**, solamente pueden ser invocados por los métodos de las clases que pertenecen al mismo paquete de la clase en la que se encuentra el método. Se comportan como **privados** para cualquier otro. Los **atributos de acceso a paquete**, pueden ser leídos y escritos directamente por los métodos de las clases que pertenecen **al mismo paquete de la clase de los atributos**. Se comportan como privados para cualquier otro método.
+- **Acceso protegido:** Los **métodos protegidos** pueden ser invocados por los métodos de las clases que pertenecen al **mismo paquete de la clase** y por los **métodos de las subclases de la clase**. Los **atributos protegidos**, pueden ser leídos y escritos por los métodos de las clases que pertenecen al mismo paquete de la clase y por los métodos de las subclases de la clase.
+
+![[archivos/imagenes/Pasted image 20241007112207.png]]
+
+Por lo general, **LOS ATRIBUTOS DE UNA CLASE DEBEN SER SIEMPRE PRIVADOS**, para que no puedan ser modificados de forma incorrecta, y los **MÉTODOS PÚBLICOS**, para poder acceder a los atributos de las clases.
+Se pueden usar métodos privados para facilitar la codificación de los métodos.
+
+### Getters y Setters
+Los **getters** son métodos que devuelven el valor que tienen los atributos en cada momento:
+- Cada atributo de la clase tiene un **único getter**
+- El nombre del getter es **getNombreAtributo**
+- Los getters contienen únicamente el código asociado a la devolución del valor del atributo **returnvalorAtributo**
+
+Los **setters** son métodos que escriben el valor que tienen los atributos en cada momento:
+- Cada atributo de la clase tiene un **único setter**
+- El nombre del getter es **setNombreAtributo**
+- Los setters contienen código sobre **las condiciones que debe cumplir el argumento** para que sea un valor correcto del atributo, manteniendo así la **integridad de los datos**.
+
+Los **setters** siempre deben incluir una condición para evitar la escritura de **null** como valor de los atributos. 
+Todos los atributos deben tener **setters y getters**, salvo que solamente tengan interés o sean usados como parte de la programación de los métodos de la clase.
+
+### Constructores
+Si el **atributo es del tipo clase**:
+- **No se reserva automáticamente memoria** para el atributo, ya que se desconoce cuánto ocupará en la memoria del computador.
+- Se le asigna en todos los casos y valor inicial de **null**, de manera que en la práctica se trata como una variable que no existe, generando un error tipo **NullPointerException** si se intenta usar.
+- La reserva de memoria se tiene que hacer manualmente para cada atributo o variables de **tipo clase** y para ello se invocan los constructores a través del **operador new**.
+
+El **constructor** básicamente: 
+- **Reserva memoria para un objeto de la clase**
+- **Reserva memoria para los atributos de dicho objeto**
+- **Asigna valores iniciales a los atributos del objeto**
+
+Se invoca una **única** vez para cada objeto, en realidad cuando se reserva memoria para un objeto, el nombre del objeto es una **referencia a la posición de memoria** en la que se almacenan los datos del objeto. Una vez que ha creados la referencia y se ha invocado al constructor para reservar memoria, si se vuelve a invocar al constructor, se **apuntará a una nueva posición de memoria**.
+
+El constructor por defecto es un **constructor que proporciona automáticamente Java** cuando no se especifica ningún otro constructor en la clase:
+- **No tiene argumentos**
+- Inicializa los atributos a sus **valores por defecto**, de modo que los atributos de clase normal tomarán el valor **null**.
+- Tiene el mismo efecto que especificar un constructor que **no tiene argumentos** y **con el cuerpo vacío**, sin ningún tipo de código.
+
+No es buena práctica no definir constructores y usar el constructor por defecto proporcionados por Java para reservar memoria.
+Se deben proporcionar constructores que tienen como argumentos los valores de los atributos que es obligatorio inicializar para crear un objeto.
+
+### Métodos Funcionales
+Una vez han sido definidos los atributos que caracterizan a una clase, se identifican y codifican los métodos que pertenecen a dicha clase y realizan las operaciones que necesitan otras clases par a implementar la **funcionalidad** del programa.
+Los **métodos funcionales** acceden directamente a los valores de los atributos. Tiene sentido crear este tipo de métodos en una clase cuando los **datos necesarios para realizar las operaciones** son los valores de los atributos de dicha clase. Los **métodos se invocan desde las clases con el operados "."**.
+```Java
+public class Contienente{
+	private String nombre;
+	private ArrayList<Pais> paises;
+	private String color;
+
+	public boolean esPaisDelContinente(Pias pais){
+		return paises.contains(pais);
+	}
+}
+```
+
+Un **método o un constructor** de una clase puede **tener varias implementaciones**, lo que otorga una mayor flexibilidad a la hora de usar la clase en diferentes contextos. En que el **método está sobrecargado**. El nombre del método **es el mismo** en todas las implementaciones. Los tipos de argumentos **deben ser diferentes**, ya que en caso contrario el compilador no podría distinguir cuál de las implementaciones debería invocar.
+
+No hay una regla fijo que indique **cuántas** implementaciones **diferentes** debe tener un método en una misma clase y la mayoría de los casos depende del contexto de invocación de los métodos
+El **objetivo** del método **tiene que ser el mismo** en todas las implementaciones.
+Se desaconseja el **uso de condiciones sobre los argumentos** con el fin de seleccionar el trozo de código que se deberá de ejecutar en cada caso.
+
+### Método toString
+Devuelve la **representación en texto** de un objeto de una clase.
+```Java
+@Override
+public String toString()
+```
+**toString** es un método que tienen **todas las clases de java**, las clases **heredan la implementación** de **toString** que tiene la clase **Object**, que es la clase que está en el nivel más alto de la jerarquía de Java.
+
+La implementación que hereda de Object es muy genérica y realmente **no aporta información sobre el contenido** del objeto, ya que realmente se compone del nombre de la clase a la que pertenece el objeto y un código hash que lo identifica.
+```Java
+public String toString(){
+	return getClass().getName()+'@' +Integer.toHexString(hashCode());
+}
+
+//Ejemplo
+System.out.println("Australia: " + australia.toString());
+
+//Salida: Australia: risketse.Conttinenete@15db9742
+```
+
+Es necesario **reimplementar** el método toString para devolver una representación en texto con aquellas características que se consideren más relevantes para escribir el objeto.
+
+Todas las clases de un programa que necesitan mostrar sus características por consola o en una interfaz gráfica deberían de reimplementar el método toString.
+No es necesario incluir en la representación textual los valores de todos los atributos del objeto, sino solamente aquellos que se consideren relevantes o representativos.
+
+## Ejecución de un programa en Java
+Todo programa en Java tiene una **clase principal** en la que se encuentra el método **main**, que será el punto a partir del cual se inicia la ejecución del programa.
+```Java
+public static void main (String[] args)
+```
+Típicamente en el método main se crean uno o varios objetos o instancias, que ejecutan las distintas partes del programa **a través de sus constructores** o de otros métodos.
+El método main suele tener **muy pocas líneas de código**, ya que la codificación del programa recaer en otras clases que soportan la funcionalidad requerida.
+**La clase principal no debe tener ningún atributo**.
+```Java
+public class RiskETSE{
+	public static void main(String[] args){
+		new Menu();
+	}
+}
+```
+La clase *Menú* analiza los comandos que introduce el usuario y genera los objetos que invocarán los métodos con los que se da respuesta a las funcionalidad del programa
