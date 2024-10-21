@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "51372fc955c83ba2",
+        "id": "0c31e5fb87ea1268",
         "type": "tabs",
         "children": [
           {
-            "id": "f53661e3a91c3470",
+            "id": "c5f6e63ff709829f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BASES DE DATOS/3.1 Casos Transformación MER a MR.md",
+                "file": "BASES DE DATOS/4.1 Ejercicios Álgebra Relacional.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.1 Casos Transformación MER a MR"
+              "title": "4.1 Ejercicios Álgebra Relacional"
             }
           }
         ]
@@ -163,17 +163,26 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f53661e3a91c3470",
+  "active": "e076035a03e0a73e",
   "lastOpenFiles": [
-    "BASES DE DATOS/4. Lenguajes Formales de Consulta.md",
-    "BASES DE DATOS/5. Structured Query Lanjuaje (SQL), Tablas y Vistas.md",
-    "BASES DE DATOS/Archivos/resueltos/MER_Caso11.pdf",
-    "BASES DE DATOS/Archivos/resueltos/MER_Caso10.pdf",
-    "BASES DE DATOS/Archivos/resueltos/MER_Caso09.pdf",
-    "BASES DE DATOS/Archivos/ejercicios/MER_Caso03_EmpresaFormacion.pdf",
-    "BASES DE DATOS/Archivos/ejercicios/Caso02MOD_GestionPadron.pdf",
-    "BASES DE DATOS/Archivos/ejercicios/Caso01MOD_OrganizacionEmpresas.pdf",
+    "BASES DE DATOS/4.1 Ejercicios Álgebra Relacional.md",
+    "BASES DE DATOS/TODOS LOS MER MR y SQL_300722145848-2.pdf",
+    "BASES DE DATOS/Archivos/ejercicios/ALG_Caso01_BecasEstudiantes.pdf",
     "BASES DE DATOS/Archivos/bibliografia/bases_datos.pdf",
+    "BASES DE DATOS/4. Lenguajes Formales de Consulta.md",
+    "BASES DE DATOS/3. Transformación de MER  a MR.md",
+    "BASES DE DATOS/3.1 Casos Transformación MER a MR.md",
+    "BASES DE DATOS/Archivos/resueltos/TMM CASO 04.pdf",
+    "BASES DE DATOS/Archivos/resueltos/TMM CASO 04.txt",
+    "BASES DE DATOS/Archivos/resueltos/MER_Caso10.pdf",
+    "BASES DE DATOS/Archivos/resueltos/TMM CASO 03.pdf",
+    "BASES DE DATOS/Archivos/resueltos/MER_Caso11.pdf",
+    "BASES DE DATOS/Archivos/resueltos/MER_Caso09.pdf",
+    "BASES DE DATOS/Archivos/resueltos/CASO 05 MOD.pdf",
+    "BASES DE DATOS/2. MODELO RELACIONAL.md",
+    "BASES DE DATOS/2.1 Casos MR.md",
+    "BASES DE DATOS/1.1 Casos MER.md",
+    "BASES DE DATOS/5. Structured Query Lanjuaje (SQL), Tablas y Vistas.md",
     "REDES/archivos/imagenes/Pasted image 20241019205106.png",
     "REDES/archivos/imagenes/Pasted image 20241019205036.png",
     "REDES/archivos/imagenes/Pasted image 20241019195949.png",
@@ -184,20 +193,12 @@
     "REDES/archivos/imagenes/Pasted image 20241018200647.png",
     "REDES/archivos/imagenes/Pasted image 20241018200435.png",
     "REDES/archivos/imagenes/Pasted image 20241018195728.png",
-    "REDES/archivos/bibliografia/Tema3Redes.pdf",
     "REDES/3. Capa de Transporte.md",
-    "REDES/archivos/bibliografia/[1] Redes de Computadores.pdf",
     "REDES/3.1 Ejercicios Capa de Transporte.md",
-    "REDES/archivos/ejercicios/SolucionesPropias/QuirogaLinaresAdrian_UtilizacionARQ.pdf",
     "REDES/2.1 Ejercicios Capa de Aplicación.md",
     "REDES/2. Capa de Aplicación.md",
     "SISTEMAS OPERATIVOS/2. PROCESOS E HILOS.md",
     "TAREAS PENDIENTES.md",
-    "BASES DE DATOS/3.1 Casos Transformación MER a MR.md",
-    "BASES DE DATOS/3. Transformación de MER  a MR.md",
-    "BASES DE DATOS/2.1 Casos MR.md",
-    "BASES DE DATOS/2. MODELO RELACIONAL.md",
-    "BASES DE DATOS/1.1 Casos MER.md",
     "BASES DE DATOS/1. MODELO ENTIDAD RELACIÓN.md",
     "SISTEMAS OPERATIVOS/2.1 Programar con señales.md",
     "POO/1. Encapsulación.md",
@@ -208,7 +209,6 @@
     "REDES/1. Introducción.md",
     "Archivos/bibliografia/bases_datos.pdf.md",
     "3 Arboles II.md",
-    "2.Arboles.md",
-    "2. Arboles II.md"
+    "2.Arboles.md"
   ]
 }
