@@ -4,24 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "0c31e5fb87ea1268",
+        "id": "d82c9d122f6bc167",
         "type": "tabs",
         "children": [
           {
-            "id": "c5f6e63ff709829f",
+            "id": "f33d4696f8c18e02",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "AED/Archivos/ejercicios/EjerciciosGrafosI.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "EjerciciosGrafosI"
+            }
+          },
+          {
+            "id": "56627d0557edaa1a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "AED/Archivos/ejercicios/solucions_exercicios.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "solucions_exercicios"
+            }
+          },
+          {
+            "id": "9c58eda32001cf06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BASES DE DATOS/4.1 Ejercicios Álgebra Relacional.md",
+                "file": "AED/5. Grafos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.1 Ejercicios Álgebra Relacional"
+              "title": "5. Grafos"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,55 +185,56 @@
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "e076035a03e0a73e",
+  "active": "9c58eda32001cf06",
   "lastOpenFiles": [
+    "Proyecto2 Redes/Informe.md",
+    "Proyecto2 Redes/CapturaPruebaUDP.png",
+    "Proyecto2 Redes/3 terminal.png",
+    "Proyecto2 Redes/1.3 terminal.png",
+    "Proyecto2 Redes/1.4 emisor.png",
+    "Proyecto2 Redes/1.4 receptor.png",
+    "Proyecto2 Redes/1.4 terminal.png",
+    "Proyecto2 Redes/Captura de pantalla de 2024-10-30 10-21-30.png",
+    "Proyecto2 Redes/README.md",
+    "Sin título.md",
+    "Proyecto2 Redes/textaco.txt",
+    "Proyecto2 Redes/servidorUPD.c",
+    "Proyecto2 Redes/clienteUDP.c",
+    "Proyecto2 Redes/receptor.c",
+    "Proyecto2 Redes/emisor.c",
+    "Proyecto2 Redes/TEXTACO.TXT",
+    "Proyecto2 Redes",
+    "REDES/2. Capa de Aplicación.md",
+    "AED/1. ÁRBOLES BINARIOS.md",
+    "REDES/3.1 Ejercicios Capa de Transporte.md",
+    "AED/archivos/bibliografia/6. GrafosI.pdf",
+    "AED/5. Grafos.md",
+    "AED/archivos/ejercicios/EjerciciosGrafosI.pdf",
+    "AED/archivos/ejercicios/solucions_exercicios.pdf",
+    "README.md",
+    "Tareas.md",
+    "AED/archivos/imagenes/Pasted image 20241027190032.png",
+    "AED/archivos/imagenes/Pasted image 20241027190004.png",
+    "AED/archivos/imagenes/Pasted image 20241027184251.png",
+    "REDES/3. Capa de Transporte.md",
+    "SISTEMAS OPERATIVOS/2.2 Programar con Hilos.md",
+    "BASES DE DATOS/5. Structured Query Lanjuaje (SQL), Tablas y Vistas.md",
+    "BASES DE DATOS/6. Structured Query Languaje (SQL) Consultas.md",
+    "BASES DE DATOS/SQL CHEAT SHEET.md",
+    "AED/4. Árboles equilibrados B y B+.md",
+    "SISTEMAS OPERATIVOS/2. PROCESOS E HILOS.md",
+    "SISTEMAS OPERATIVOS/2.1 Programar con señales.md",
+    "AED/3. Árboles Equilibrados AVL.md",
     "BASES DE DATOS/4.1 Ejercicios Álgebra Relacional.md",
-    "BASES DE DATOS/TODOS LOS MER MR y SQL_300722145848-2.pdf",
-    "BASES DE DATOS/Archivos/ejercicios/ALG_Caso01_BecasEstudiantes.pdf",
-    "BASES DE DATOS/Archivos/bibliografia/bases_datos.pdf",
     "BASES DE DATOS/4. Lenguajes Formales de Consulta.md",
     "BASES DE DATOS/3. Transformación de MER  a MR.md",
     "BASES DE DATOS/3.1 Casos Transformación MER a MR.md",
-    "BASES DE DATOS/Archivos/resueltos/TMM CASO 04.pdf",
-    "BASES DE DATOS/Archivos/resueltos/TMM CASO 04.txt",
-    "BASES DE DATOS/Archivos/resueltos/MER_Caso10.pdf",
-    "BASES DE DATOS/Archivos/resueltos/TMM CASO 03.pdf",
-    "BASES DE DATOS/Archivos/resueltos/MER_Caso11.pdf",
-    "BASES DE DATOS/Archivos/resueltos/MER_Caso09.pdf",
-    "BASES DE DATOS/Archivos/resueltos/CASO 05 MOD.pdf",
     "BASES DE DATOS/2. MODELO RELACIONAL.md",
     "BASES DE DATOS/2.1 Casos MR.md",
-    "BASES DE DATOS/1.1 Casos MER.md",
-    "BASES DE DATOS/5. Structured Query Lanjuaje (SQL), Tablas y Vistas.md",
-    "REDES/archivos/imagenes/Pasted image 20241019205106.png",
-    "REDES/archivos/imagenes/Pasted image 20241019205036.png",
-    "REDES/archivos/imagenes/Pasted image 20241019195949.png",
-    "REDES/archivos/imagenes/Pasted image 20241019191020.png",
-    "REDES/archivos/imagenes/Pasted image 20241019190923.png",
-    "REDES/archivos/imagenes/Pasted image 20241018200605.png",
-    "REDES/archivos/imagenes/Pasted image 20241018200547.png",
-    "REDES/archivos/imagenes/Pasted image 20241018200647.png",
-    "REDES/archivos/imagenes/Pasted image 20241018200435.png",
-    "REDES/archivos/imagenes/Pasted image 20241018195728.png",
-    "REDES/3. Capa de Transporte.md",
-    "REDES/3.1 Ejercicios Capa de Transporte.md",
-    "REDES/2.1 Ejercicios Capa de Aplicación.md",
-    "REDES/2. Capa de Aplicación.md",
-    "SISTEMAS OPERATIVOS/2. PROCESOS E HILOS.md",
-    "TAREAS PENDIENTES.md",
-    "BASES DE DATOS/1. MODELO ENTIDAD RELACIÓN.md",
-    "SISTEMAS OPERATIVOS/2.1 Programar con señales.md",
-    "POO/1. Encapsulación.md",
-    "POO/2. Clases y tipos de datos.md",
-    "REDES/1.1 Ejercicios Introducción.md",
-    "Informe sobre Sockets orientados a conexión..md",
-    "SISTEMAS OPERATIVOS/1. INTRODUCCIÓN A LOS SISTEMAS OPERATIVOS.md",
-    "REDES/1. Introducción.md",
-    "Archivos/bibliografia/bases_datos.pdf.md",
-    "3 Arboles II.md",
-    "2.Arboles.md"
+    "BASES DE DATOS/1.1 Casos MER.md"
   ]
 }

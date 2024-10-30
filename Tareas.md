@@ -1,0 +1,10 @@
+- [ ] Seguir con POO 4 semanas
+- [x] Estudiar AED T5 -T6
+- [x] Hacer ejecicios de AED
+- [x] Estudiar Redes
+- [x] Hacer ejs de redes
+- [x] Instalar VM de SQL
+- [ ] Finalizar entrega redes servidor UDP
+- [ ] Hacer hasta el 4 de SOI de hilos
+- [x] Estudiar SOI repaso de todo e hilos
+- [x] Repasar un poco de Redes

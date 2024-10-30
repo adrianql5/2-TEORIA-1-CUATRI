@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiGitGraph",
+      "😤",
       "🚄",
       "🥂",
-      "📔",
-      "🙆‍♀️",
-      "🫵"
+      "📔"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,7 +34,6 @@
     "debugMode": false
   },
   "AED": "LiTrees",
-  "AED/Archivos": "🖼",
   "BASES DE DATOS": "LiDatabase",
   "BASES DE DATOS/1. MODELO ENTIDAD RELACIÓN.md": "📔",
   "BASES DE DATOS/1.1 Casos MER.md": "🙆‍♀️",
@@ -62,5 +61,10 @@
   "SISTEMAS OPERATIVOS/1. INTRODUCCIÓN A LOS SISTEMAS OPERATIVOS.md": "🖥",
   "BASES DE DATOS/5. Structured Query Lanjuaje (SQL), Tablas y Vistas.md": "📔",
   "REDES/3.1 Ejercicios Capa de Transporte.md": "🫵",
-  "REDES/3. Capa de Transporte.md": "🚄"
+  "REDES/3. Capa de Transporte.md": "🚄",
+  "BASES DE DATOS/4.1 Ejercicios Álgebra Relacional.md": "🙆‍♀️",
+  "BASES DE DATOS/6. Structured Query Languaje (SQL) Consultas.md": "📔",
+  "AED/4. Árboles equilibrados B y B+.md": "😤",
+  "AED/5. Grafos.md": "LiGitGraph",
+  "AED/archivos": "🖼"
 }
