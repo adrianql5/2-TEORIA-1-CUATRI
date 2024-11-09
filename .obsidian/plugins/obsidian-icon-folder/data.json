@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🫵",
+      "💆‍♂️",
+      "🙆‍♀️",
       "LiGitGraph",
-      "😤",
-      "🚄",
-      "🥂",
-      "📔"
+      "😤"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -65,6 +65,12 @@
   "BASES DE DATOS/4.1 Ejercicios Álgebra Relacional.md": "🙆‍♀️",
   "BASES DE DATOS/6. Structured Query Languaje (SQL) Consultas.md": "📔",
   "AED/4. Árboles equilibrados B y B+.md": "😤",
-  "AED/5. Grafos.md": "LiGitGraph",
-  "AED/archivos": "🖼"
+  "AED/archivos": "🖼",
+  "BASES DE DATOS/7. Structured Query Languaje (SQL) Otros Elementos.md": "📔",
+  "AED/5. Grafos I.md": "LiGitGraph",
+  "AED/6. Grafos II.md": "LiGitGraph",
+  "BASES DE DATOS/8. Normalización del Modelo Relacional.md": "📔",
+  "BASES DE DATOS/5.1 Ejercicios sql.md": "🙆‍♀️",
+  "REDES/4. Capa de Red.md": "💆‍♂️",
+  "REDES/4.1 Ejercicios Capa de Red.md": "🫵"
 }

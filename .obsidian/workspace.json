@@ -1,66 +1,59 @@
 {
   "main": {
-    "id": "91abb3b42504b976",
+    "id": "c438e4bc1ca055ac",
     "type": "split",
     "children": [
       {
-        "id": "d82c9d122f6bc167",
+        "id": "8476f27006fde25d",
         "type": "tabs",
         "children": [
           {
-            "id": "f33d4696f8c18e02",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "AED/Archivos/ejercicios/EjerciciosGrafosI.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "EjerciciosGrafosI"
-            }
-          },
-          {
-            "id": "56627d0557edaa1a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "AED/Archivos/ejercicios/solucions_exercicios.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "solucions_exercicios"
-            }
-          },
-          {
-            "id": "9c58eda32001cf06",
+            "id": "ca0fec218e6d67b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AED/5. Grafos.md",
+                "file": "REDES/4. Capa de Red.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Grafos"
+              "title": "4. Capa de Red"
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "36e4665aec50e22a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c58e55f13936b2cc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "REDES/archivos/bibliografia/tcpip-nico.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "tcpip-nico"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "72ae11e3666f8fd1",
+    "id": "9f9e2fd7b7ce3e36",
     "type": "split",
     "children": [
       {
-        "id": "a9eabf8c4b7bfc7f",
+        "id": "bb7bc039c99aeb59",
         "type": "tabs",
         "children": [
           {
-            "id": "e076035a03e0a73e",
+            "id": "393cd686a448de50",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -72,7 +65,7 @@
             }
           },
           {
-            "id": "6666305fc735d602",
+            "id": "97b20e2a0fa6b9e8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -89,7 +82,7 @@
             }
           },
           {
-            "id": "1b1ff5af0c0ceda6",
+            "id": "b667ce7b9047e044",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -102,23 +95,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "cbc009afb800b7df",
+    "id": "7c9412205df433aa",
     "type": "split",
     "children": [
       {
-        "id": "b5dc683f70b57a40",
+        "id": "de4fbbbf49f15ae5",
         "type": "tabs",
         "children": [
           {
-            "id": "d898819892a6cddb",
+            "id": "36f742f10e40c382",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BASES DE DATOS/1.1 Casos MER.md",
+                "file": "BASES DE DATOS/TODOS LOS MER MR y SQL_300722145848-2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,30 +122,30 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 1.1 Casos MER"
+              "title": "Enlaces entrantes de TODOS LOS MER MR y SQL_300722145848-2"
             }
           },
           {
-            "id": "bf33de09dd4481ba",
+            "id": "e446624dcc3b9fe1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BASES DE DATOS/1.1 Casos MER.md",
+                "file": "BASES DE DATOS/TODOS LOS MER MR y SQL_300722145848-2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de 1.1 Casos MER"
+              "title": "Enlaces salientes de TODOS LOS MER MR y SQL_300722145848-2"
             }
           },
           {
-            "id": "20124cbc720485a1",
+            "id": "17d7ff7d29e6e31d",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "useHierarchy": true
               },
               "icon": "lucide-tags",
@@ -159,23 +153,22 @@
             }
           },
           {
-            "id": "4b44cd478f9c2571",
+            "id": "d373db846295238c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "BASES DE DATOS/1.1 Casos MER.md"
+                "file": "BASES DE DATOS/TODOS LOS MER MR y SQL_300722145848-2.pdf"
               },
               "icon": "lucide-list",
-              "title": "Esquema de 1.1 Casos MER"
+              "title": "Esquema de TODOS LOS MER MR y SQL_300722145848-2"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -189,52 +182,46 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9c58eda32001cf06",
+  "active": "ca0fec218e6d67b8",
   "lastOpenFiles": [
-    "Proyecto2 Redes/Informe.md",
-    "Proyecto2 Redes/CapturaPruebaUDP.png",
-    "Proyecto2 Redes/3 terminal.png",
-    "Proyecto2 Redes/1.3 terminal.png",
-    "Proyecto2 Redes/1.4 emisor.png",
-    "Proyecto2 Redes/1.4 receptor.png",
-    "Proyecto2 Redes/1.4 terminal.png",
-    "Proyecto2 Redes/Captura de pantalla de 2024-10-30 10-21-30.png",
-    "Proyecto2 Redes/README.md",
-    "Sin título.md",
-    "Proyecto2 Redes/textaco.txt",
-    "Proyecto2 Redes/servidorUPD.c",
-    "Proyecto2 Redes/clienteUDP.c",
-    "Proyecto2 Redes/receptor.c",
-    "Proyecto2 Redes/emisor.c",
-    "Proyecto2 Redes/TEXTACO.TXT",
-    "Proyecto2 Redes",
-    "REDES/2. Capa de Aplicación.md",
-    "AED/1. ÁRBOLES BINARIOS.md",
-    "REDES/3.1 Ejercicios Capa de Transporte.md",
-    "AED/archivos/bibliografia/6. GrafosI.pdf",
-    "AED/5. Grafos.md",
-    "AED/archivos/ejercicios/EjerciciosGrafosI.pdf",
-    "AED/archivos/ejercicios/solucions_exercicios.pdf",
-    "README.md",
-    "Tareas.md",
-    "AED/archivos/imagenes/Pasted image 20241027190032.png",
-    "AED/archivos/imagenes/Pasted image 20241027190004.png",
-    "AED/archivos/imagenes/Pasted image 20241027184251.png",
+    "REDES/archivos/bibliografia/tcpip-nico.pdf",
+    "REDES/4. Capa de Red.md",
     "REDES/3. Capa de Transporte.md",
-    "SISTEMAS OPERATIVOS/2.2 Programar con Hilos.md",
-    "BASES DE DATOS/5. Structured Query Lanjuaje (SQL), Tablas y Vistas.md",
-    "BASES DE DATOS/6. Structured Query Languaje (SQL) Consultas.md",
+    "REDES/3.1 Ejercicios Capa de Transporte.md",
+    "REDES/1. Introducción.md",
+    "REDES/1.1 Ejercicios Introducción.md",
+    "REDES/2.1 Ejercicios Capa de Aplicación.md",
+    "REDES/2. Capa de Aplicación.md",
+    "REDES/4.1 Ejercicios Capa de Red.md",
+    "REDES/archivos/ejercicios/SolucionesPropias/QuirogaLinaresAdrian_CabecerasIP.pdf",
+    "REDES/archivos/ejercicios/Enunciados/CabecerasIP.pdf",
+    "REDES/archivos/bibliografia/[1] Redes de Computadores.pdf",
+    "REDES/archivos/ejercicios/SolucionesPropias/QuirogaLinaresAdrian_CIDR.pdf",
+    "REDES/archivos/ejercicios/Enunciados/CIDR.pdf",
+    "REDES/archivos/imagenes/Pasted image 20241108215124.png",
+    "REDES/archivos/imagenes/Pasted image 20241108215013.png",
+    "REDES/archivos/imagenes/Pasted image 20241108210200.png",
+    "REDES/archivos/imagenes/Pasted image 20241108205808.png",
+    "REDES/archivos/imagenes/Pasted image 20241108205726.png",
+    "REDES/archivos/imagenes/Pasted image 20241108205438.png",
+    "REDES/archivos/imagenes/Pasted image 20241108205425.png",
+    "REDES/archivos/imagenes/Pasted image 20241108205352.png",
+    "REDES/archivos/imagenes/Pasted image 20241108205225.png",
+    "REDES/archivos/imagenes/Pasted image 20241108205153.png",
+    "REDES/archivos/bibliografia/Tema4Redes.pdf",
+    "BASES DE DATOS/5.1 Ejercicios sql.md",
+    "BASES DE DATOS/TODOS LOS MER MR y SQL_300722145848-2.pdf",
+    "archivos/imagenes/Pasted.md",
+    "archivos/imagenes",
+    "archivos",
     "BASES DE DATOS/SQL CHEAT SHEET.md",
-    "AED/4. Árboles equilibrados B y B+.md",
-    "SISTEMAS OPERATIVOS/2. PROCESOS E HILOS.md",
-    "SISTEMAS OPERATIVOS/2.1 Programar con señales.md",
-    "AED/3. Árboles Equilibrados AVL.md",
-    "BASES DE DATOS/4.1 Ejercicios Álgebra Relacional.md",
-    "BASES DE DATOS/4. Lenguajes Formales de Consulta.md",
+    "BASES DE DATOS/5. Structured Query Lanjuaje (SQL), Tablas y Vistas.md",
+    "BASES DE DATOS/7. Structured Query Languaje (SQL) Otros Elementos.md",
+    "BASES DE DATOS/6. Structured Query Languaje (SQL) Consultas.md",
+    "Tareas.md",
+    "BASES DE DATOS/8. Normalización del Modelo Relacional.md",
     "BASES DE DATOS/3. Transformación de MER  a MR.md",
-    "BASES DE DATOS/3.1 Casos Transformación MER a MR.md",
     "BASES DE DATOS/2. MODELO RELACIONAL.md",
-    "BASES DE DATOS/2.1 Casos MR.md",
-    "BASES DE DATOS/1.1 Casos MER.md"
+    "BASES DE DATOS/2.1 Casos MR.md"
   ]
 }

@@ -1,10 +1,6 @@
-- [ ] Seguir con POO 4 semanas
-- [x] Estudiar AED T5 -T6
-- [x] Hacer ejecicios de AED
-- [x] Estudiar Redes
-- [x] Hacer ejs de redes
-- [x] Instalar VM de SQL
-- [ ] Finalizar entrega redes servidor UDP
-- [ ] Hacer hasta el 4 de SOI de hilos
-- [x] Estudiar SOI repaso de todo e hilos
-- [x] Repasar un poco de Redes
+- [ ] Boletin de Redes
+- [ ] Ejercicios Redes T4
+- [ ] Estudiar Todo SOI, mirando tanenbaum
+- [ ] Empezar Tema 4 redes
+- [ ] Estudiar tema 7 AED
+- [ ] Configurar la VM de SQL1
