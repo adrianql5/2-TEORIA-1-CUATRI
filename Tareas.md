@@ -1,6 +1,6 @@
 - [ ] Boletin de Redes
-- [ ] Ejercicios Redes T4
+- [ ] Ir corrigiendo apuntes de redes
 - [ ] Estudiar Todo SOI, mirando tanenbaum
-- [ ] Empezar Tema 4 redes
-- [ ] Estudiar tema 7 AED
-- [ ] Configurar la VM de SQL1
+- [ ] Estudiar POO
+- [ ] Recolocar Libretas
+- [ ] Ver video SOI

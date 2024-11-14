@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "⚠",
+      "💹",
+      "👷",
       "🫵",
-      "💆‍♂️",
-      "🙆‍♀️",
-      "LiGitGraph",
-      "😤"
+      "💆‍♂️"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -72,5 +72,8 @@
   "BASES DE DATOS/8. Normalización del Modelo Relacional.md": "📔",
   "BASES DE DATOS/5.1 Ejercicios sql.md": "🙆‍♀️",
   "REDES/4. Capa de Red.md": "💆‍♂️",
-  "REDES/4.1 Ejercicios Capa de Red.md": "🫵"
+  "REDES/4.1 Ejercicios Capa de Red.md": "🫵",
+  "POO/3. Conjuntos de datos.md": "👷",
+  "POO/4. Herencia.md": "💹",
+  "REDES/0. BOLETIN DE REDES.md": "⚠"
 }
