@@ -4,52 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "96dc45e81f0f74c0",
+        "id": "867523d240b8283b",
         "type": "tabs",
         "children": [
           {
-            "id": "9ccf302ec1e6cba6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "REDES/archivos/ejercicios/Enunciados/boletin.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "boletin"
-            }
-          },
-          {
-            "id": "c78c695248ddff62",
+            "id": "adca9ebd6d47fa6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REDES/3. Capa de Transporte.md",
+                "file": "SISTEMAS OPERATIVOS/2. PROCESOS E HILOS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Capa de Transporte"
+              "title": "2. PROCESOS E HILOS"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "90418eda89795fef",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "cd6023734fb708a9",
+            "id": "c11c3256f068df75",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "REDES/archivos/bibliografia/tcpip-nico.pdf"
+                "file": "**La sombra en la comisaría**.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "tcpip-nico"
+              "icon": "lucide-file",
+              "title": "**La sombra en la comisaría**"
             }
           }
         ]
@@ -108,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
   "right": {
     "id": "7c9412205df433aa",
@@ -205,53 +187,53 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c78c695248ddff62",
+  "active": "adca9ebd6d47fa6d",
   "lastOpenFiles": [
-    "REDES/archivos/imagenes/Pasted image 20241114194736.png",
-    "REDES/archivos/imagenes/Pasted image 20241114194656.png",
-    "REDES/archivos/bibliografia/tcpip-nico.pdf",
+    "**La sombra en la comisaría**.md",
+    "Sin título.md",
+    "SISTEMAS OPERATIVOS/archivos/bibliografia/Apuntes SOI 22-23_270923124452.pdf",
+    "SISTEMAS OPERATIVOS/2. PROCESOS E HILOS.md",
+    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241117224945.png",
+    "SISTEMAS OPERATIVOS/archivos/bibliografia/2-Sistemas operativos moderno 3ed Tanenbaum.pdf",
+    "SISTEMAS OPERATIVOS/archivos/bibliografia/SisOp-nico-1.pdf",
+    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241117224134.png",
+    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241117222921.png",
+    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241117222127.png",
+    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241117211021.png",
+    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241117210852.png",
+    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241117210811.png",
+    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241117191436.png",
+    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241117191416.png",
+    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241117191405.png",
+    "SISTEMAS OPERATIVOS/1. INTRODUCCIÓN A LOS SISTEMAS OPERATIVOS.md",
+    "SISTEMAS OPERATIVOS/archivos/bibliografia/Andrew S. Tanenbaum - Sistemas Operativos Modernos 2º Edición Solucionario.PDF",
+    "SISTEMAS OPERATIVOS/archivos/bibliografia/Andrew S. Tanenbaum - Sistemas Operativos Modernos 2º Edición Solucionario.en.es.pdf",
+    "SISTEMAS OPERATIVOS/archivos/bibliografia/lu23656b6kwa.tmp",
+    "archivos/imagenes/Pasted.md",
+    "archivos/imagenes",
+    "archivos",
     "REDES/3. Capa de Transporte.md",
-    "REDES/2. Capa de Aplicación.md",
-    "REDES/2.1 Ejercicios Capa de Aplicación.md",
-    "REDES/archivos/imagenes/Pasted image 20241114191723.png",
-    "REDES/1.1 Ejercicios Introducción.md",
-    "REDES/1. Introducción.md",
-    "REDES/archivos/imagenes/Pasted image 20241114191045.png",
-    "REDES/archivos/bibliografia/[1] Redes de Computadores.pdf",
-    "REDES/archivos/ejercicios/Enunciados/boletin.pdf",
-    "REDES/4. Capa de Red.md",
+    "REDES/archivos/bibliografia/tcpip-nico.pdf",
     "REDES/0. BOLETIN DE REDES.md",
-    "REDES/archivos/imagenes/Pasted image 20241113222249.png",
-    "REDES/archivos/imagenes/Pasted image 20241113222131.png",
-    "REDES/archivos/imagenes/Pasted image 20241113222103.png",
-    "REDES/archivos/imagenes/Pasted image 20241113220741.png",
-    "REDES/archivos/imagenes/Pasted image 20241113215403.png",
-    "REDES/archivos/imagenes/Pasted image 20241113215319.png",
-    "REDES/archivos/imagenes/Pasted image 20241113214248.png",
+    "REDES/4. Capa de Red.md",
+    "REDES/archivos/ejercicios/SolucionesPropias/QuirogaLinaresAdrian_BoletinRedesV1.pdf",
+    "REDES/2.1 Ejercicios Capa de Aplicación.md",
+    "REDES/4.1 Ejercicios Capa de Red.md",
+    "REDES/2. Capa de Aplicación.md",
+    "REDES/1. Introducción.md",
+    "SISTEMAS OPERATIVOS/2.2 Programar con Hilos.md",
+    "SISTEMAS OPERATIVOS/2.1 Programar con señales.md",
+    "Informe Práctica 5.md",
+    "REDES/1.1 Ejercicios Introducción.md",
     "BASES DE DATOS/1. MODELO ENTIDAD RELACIÓN.md",
     "BASES DE DATOS/8. Normalización del Modelo Relacional.md",
-    "BASES DE DATOS/TODOS LOS MER MR y SQL_300722145848-2.pdf",
-    "REDES/4.1 Ejercicios Capa de Red.md",
-    "REDES/archivos/ejercicios/Enunciados/CIDR.pdf",
-    "REDES/archivos/ejercicios/SolucionesPropias/QuirogaLinaresAdrian_CIDR.pdf",
-    "POO/archivos/bibliografia/ResumenPOO_BUENO_140123094549.pdf",
     "POO/5. Polimorfismo.md",
     "POO/4. Herencia.md",
-    "POO/archivos/bibliografia/4. Herencia - Jerarquías de clases, composición y abstracción.pdf",
-    "POO/archivos/bibliografia/5. Polimorfismo - Herencia y simplificación de código.pdf",
-    "POO/archivos/bibliografia/1. Encapsulación - Tipos de datos, clases y objetos.pdf",
     "POO/3. Conjuntos de datos.md",
     "POO/2. Clases y tipos de datos.md",
     "Tareas.md",
     "Calendario/2025-01-23.md",
     "Calendario/2025-01-20.md",
-    "Calendario/2025-01-22.md",
-    "Calendario/2025-01-16.md",
-    "Calendario/2025-01-08.md",
-    "AED/7. Tablas Hash.md",
-    "AED/6. Grafos II.md",
-    "archivos/imagenes/Pasted.md",
-    "REDES/3.1 Ejercicios Capa de Transporte.md",
-    "BASES DE DATOS/5.1 Ejercicios sql.md"
+    "Calendario/2025-01-22.md"
   ]
 }
