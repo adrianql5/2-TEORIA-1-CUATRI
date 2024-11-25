@@ -1,6 +1,11 @@
-- [ ] Boletin de Redes
-- [ ] Ir corrigiendo apuntes de redes
-- [ ] Estudiar Todo SOI, mirando tanenbaum
+- [ ] Estudiar Tema3, mirando tanenbaum
 - [ ] Estudiar POO
 - [ ] Recolocar Libretas
-- [ ] Ver video SOI
+- [x] Acabar informe SOI
+- [ ] Acabar informe AED
+- [ ] Estudiar utlimo tema AED
+- [x] Probar script de miguel
+- [ ] Estudiar Redes Ultimo tema
+- [ ] Acabar boletin redes
+- [ ] Instalar VM
+- [x] modificar los wallpapers de daniela
