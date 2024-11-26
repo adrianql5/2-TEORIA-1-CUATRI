@@ -1,8 +1,3 @@
-
----
-
-# **SQL Cheat Sheet**
-
 ## 1. **Selección de Datos (Consultas Básicas)**
 
 ### `SELECT` - Seleccionar columnas de una tabla

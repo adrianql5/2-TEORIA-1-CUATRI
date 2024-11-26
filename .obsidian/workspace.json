@@ -8,35 +8,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a64617549b5fac2d",
+            "id": "8e92b73168c51ed4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tareas.md",
+                "file": "AED/7. Tablas Hash.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tareas"
+              "title": "7. Tablas Hash"
             }
           },
           {
-            "id": "1a50e812861a013c",
+            "id": "1fe2469ef045d94a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "REDES/5. Capa de Enlace.md",
-                "mode": "source",
-                "source": false
+                "file": "REDES/archivos/bibliografia/tcpip-nico.pdf"
               },
-              "icon": "lucide-file",
-              "title": "5. Capa de Enlace"
+              "icon": "lucide-file-text",
+              "title": "tcpip-nico"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
   "right": {
     "id": "7c9412205df433aa",
@@ -189,8 +185,40 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1a50e812861a013c",
+  "active": "8e92b73168c51ed4",
   "lastOpenFiles": [
+    "AED/6. Grafos II.md",
+    "AED/5. Grafos I.md",
+    "AED/3. Árboles Equilibrados AVL.md",
+    "AED/4. Árboles equilibrados B y B+.md",
+    "AED/2. ESTRUCTURAS PARA BÚSQUEDA.md",
+    "AED/1. ÁRBOLES BINARIOS.md",
+    "BASES DE DATOS/8. Normalización del Modelo Relacional.md",
+    "BASES DE DATOS/7. Structured Query Languaje (SQL) Otros Elementos.md",
+    "BASES DE DATOS/6. Structured Query Languaje (SQL) Consultas.md",
+    "BASES DE DATOS/5. Structured Query Lanjuaje (SQL), Tablas y Vistas.md",
+    "BASES DE DATOS/4. Lenguajes Formales de Consulta.md",
+    "BASES DE DATOS/3. Transformación de MER  a MR.md",
+    "BASES DE DATOS/2. MODELO RELACIONAL.md",
+    "BASES DE DATOS/1. MODELO ENTIDAD RELACIÓN.md",
+    "POO/5. Polimorfismo.md",
+    "POO/4. Herencia.md",
+    "POO/3. Conjuntos de datos.md",
+    "POO/2. Clases y tipos de datos.md",
+    "POO/1. Encapsulación.md",
+    "SISTEMAS OPERATIVOS/3. Gestión de la Memoria.md",
+    "SISTEMAS OPERATIVOS/2. PROCESOS E HILOS.md",
+    "SISTEMAS OPERATIVOS/1. INTRODUCCIÓN A LOS SISTEMAS OPERATIVOS.md",
+    "REDES/0. BOLETIN DE REDES.md",
+    "REDES/1. Introducción.md",
+    "REDES/2. Capa de Aplicación.md",
+    "REDES/3. Capa de Transporte.md",
+    "REDES/archivos/ejercicios/SolucionesPropias/QuirogaLinaresAdrian_BoletinRedesV1.pdf",
+    "REDES/archivos/ejercicios/SolucionesPropias/ilovepdf_merged.pdf",
+    "REDES/archivos/ejercicios/Enunciados/boletin.pdf",
+    "REDES/archivos/bibliografia/tcpip-nico.pdf",
+    "BASES DE DATOS/TODOS LOS MER MR y SQL_300722145848-2.pdf",
+    "REDES/archivos/bibliografia/[1] Redes de Computadores.pdf",
     "REDES/archivos/imagenes/Pasted image 20241125120839.png",
     "REDES/archivos/imagenes/Pasted image 20241125120455.png",
     "REDES/archivos/imagenes/Pasted image 20241125120441.png",
@@ -200,42 +228,10 @@
     "REDES/archivos/imagenes/Pasted image 20241125120044.png",
     "REDES/archivos/imagenes/Pasted image 20241125120007.png",
     "REDES/archivos/imagenes/Pasted image 20241125115936.png",
-    "REDES/archivos/bibliografia/tcpip-nico.pdf",
-    "REDES/5. Capa de Enlace.md",
     "REDES/archivos/imagenes/Pasted image 20241125114437.png",
-    "REDES/archivos/imagenes/Pasted image 20241125114410.png",
-    "REDES/4. Capa de Red.md",
-    "REDES/4.1 Ejercicios Capa de Red.md",
-    "REDES/1. Introducción.md",
-    "Tareas.md",
-    "POO/1. Encapsulación.md",
     "POO/archivos/bibliografia/1. Encapsulación - Tipos de datos, clases y objetos.pdf",
-    "Informe, Análisis de Tablas Hash.md",
-    "AED/7. Tablas Hash.md",
-    "SISTEMAS OPERATIVOS/2. PROCESOS E HILOS.md",
-    "archivos/imagenes/Pasted.md",
-    "BASES DE DATOS/5. Structured Query Lanjuaje (SQL), Tablas y Vistas.md",
-    "SISTEMAS OPERATIVOS/3. Gestión de la Memoria.md",
     "SISTEMAS OPERATIVOS/archivos/bibliografia/2-Sistemas operativos moderno 3ed Tanenbaum.pdf",
     "SISTEMAS OPERATIVOS/archivos/bibliografia/SisOp-nico-1.pdf",
-    "SISTEMAS OPERATIVOS/1. INTRODUCCIÓN A LOS SISTEMAS OPERATIVOS.md",
-    "SISTEMAS OPERATIVOS/archivos/bibliografia/Apuntes SOI 22-23_270923124452.pdf",
-    "SISTEMAS OPERATIVOS/archivos/bibliografia/Andrew S. Tanenbaum - Sistemas Operativos Modernos 2º Edición Solucionario.PDF",
-    "SISTEMAS OPERATIVOS/2.1 Programar con señales.md",
-    "SISTEMAS OPERATIVOS/2.2 Programar con Hilos.md",
-    "Informe Práctica 5.md",
-    "BASES DE DATOS/7. Structured Query Languaje (SQL) Otros Elementos.md",
-    "BASES DE DATOS/6. Structured Query Languaje (SQL) Consultas.md",
-    "**La sombra en la comisaría**.md",
-    "SISTEMAS OPERATIVOS/archivos/bibliografia/Andrew S. Tanenbaum - Sistemas Operativos Modernos 2º Edición Solucionario.en.es.pdf",
-    "SISTEMAS OPERATIVOS/archivos/bibliografia/lu23656b6kwa.tmp",
-    "archivos/imagenes",
-    "archivos",
-    "REDES/3. Capa de Transporte.md",
-    "REDES/0. BOLETIN DE REDES.md",
-    "REDES/2.1 Ejercicios Capa de Aplicación.md",
-    "REDES/2. Capa de Aplicación.md",
-    "REDES/1.1 Ejercicios Introducción.md",
-    "BASES DE DATOS/1. MODELO ENTIDAD RELACIÓN.md"
+    "SISTEMAS OPERATIVOS/archivos/bibliografia/Apuntes SOI 22-23_270923124452.pdf"
   ]
 }

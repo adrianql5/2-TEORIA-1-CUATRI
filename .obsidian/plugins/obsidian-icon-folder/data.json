@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🔌",
+      "💅",
       "LiMemoryStick",
       "⚠",
-      "💹",
-      "👷",
-      "🫵"
+      "💹"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -76,5 +76,7 @@
   "POO/3. Conjuntos de datos.md": "👷",
   "POO/4. Herencia.md": "💹",
   "REDES/0. BOLETIN DE REDES.md": "⚠",
-  "SISTEMAS OPERATIVOS/3. Gestión de la Memoria.md": "LiMemoryStick"
+  "SISTEMAS OPERATIVOS/3. Gestión de la Memoria.md": "LiMemoryStick",
+  "POO/5. Polimorfismo.md": "💅",
+  "REDES/5. Capa de Enlace.md": "🔌"
 }

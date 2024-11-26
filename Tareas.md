@@ -5,7 +5,8 @@
 - [ ] Acabar informe AED
 - [ ] Estudiar utlimo tema AED
 - [x] Probar script de miguel
-- [ ] Estudiar Redes Ultimo tema
+- [x] Estudiar Redes Ultimo tema
 - [ ] Acabar boletin redes
 - [ ] Instalar VM
 - [x] modificar los wallpapers de daniela
+- [ ] Seguir con la entrega del Monopo
