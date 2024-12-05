@@ -1,12 +1,6 @@
 - [ ] Estudiar Tema3, mirando tanenbaum
 - [ ] Estudiar POO
 - [ ] Recolocar Libretas
-- [x] Acabar informe SOI
 - [ ] Acabar informe AED
-- [ ] Estudiar utlimo tema AED
-- [x] Probar script de miguel
-- [x] Estudiar Redes Ultimo tema
-- [ ] Acabar boletin redes
-- [ ] Instalar VM
-- [x] modificar los wallpapers de daniela
 - [ ] Seguir con la entrega del Monopo
+- [ ] Acabar proyecto BD
