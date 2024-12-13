@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "💪",
+      "🙄",
       "🚷",
       "🔌",
-      "💅",
-      "LiMemoryStick",
-      "⚠"
+      "💅"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -31,7 +31,8 @@
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
-    "debugMode": false
+    "debugMode": false,
+    "useInternalPlugins": false
   },
   "AED": "LiTrees",
   "BASES DE DATOS": "LiDatabase",
@@ -80,5 +81,7 @@
   "POO/5. Polimorfismo.md": "💅",
   "REDES/5. Capa de Enlace.md": "🔌",
   "AED/7. Tablas Hash.md": "💹",
-  "AED/8. Estrategias Algorítmicas.md": "🚷"
+  "AED/8. Estrategias Algorítmicas.md": "🚷",
+  "POO/6. Interfaces.md": "🙄",
+  "POO/7. Excepciones.md": "💪"
 }

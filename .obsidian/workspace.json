@@ -4,33 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7e38eb7707be3bc5",
+        "id": "9f91d48fd4583133",
         "type": "tabs",
         "children": [
           {
-            "id": "521abbfacdf0e97e",
+            "id": "432b08c81c8da99d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SISTEMAS OPERATIVOS/3. Gestión de la Memoria.md",
+                "file": "AED/8. Estrategias Algorítmicas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Gestión de la Memoria"
-            }
-          },
-          {
-            "id": "7089a25f95affb9a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "SISTEMAS OPERATIVOS/archivos/bibliografia/2-Sistemas operativos moderno 3ed Tanenbaum.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2-Sistemas operativos moderno 3ed Tanenbaum"
+              "title": "8. Estrategias Algorítmicas"
             }
           }
         ]
@@ -100,24 +88,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5aa8224ea042c9e6",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
             "id": "36f742f10e40c382",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POO/4. Herencia.md",
+                "file": "SISTEMAS OPERATIVOS/archivos/bibliografia/2-Sistemas operativos moderno 3ed Tanenbaum.pdf",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -125,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 4. Herencia"
+              "title": "Enlaces entrantes de 2-Sistemas operativos moderno 3ed Tanenbaum"
             }
           },
           {
@@ -147,12 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "POO/4. Herencia.md",
+                "file": "SISTEMAS OPERATIVOS/3. Gestión de la Memoria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de 4. Herencia"
+              "title": "Enlaces salientes de 3. Gestión de la Memoria"
             }
           },
           {
@@ -161,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BASES DE DATOS/TODOS LOS MER MR y SQL_300722145848-2.pdf"
+                "file": "SISTEMAS OPERATIVOS/3. Gestión de la Memoria.md"
               },
               "icon": "lucide-list",
-              "title": "Esquema de TODOS LOS MER MR y SQL_300722145848-2"
+              "title": "Esquema de 3. Gestión de la Memoria"
             }
           }
         ]
@@ -182,55 +160,57 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "521abbfacdf0e97e",
+  "active": "432b08c81c8da99d",
   "lastOpenFiles": [
-    "SISTEMAS OPERATIVOS/archivos/bibliografia/2-Sistemas operativos moderno 3ed Tanenbaum.pdf",
-    "SISTEMAS OPERATIVOS/3. Gestión de la Memoria.md",
-    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241205112726.png",
-    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241205112701.png",
-    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241205112341.png",
-    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241205112322.png",
-    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241205111806.png",
-    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241205110818.png",
-    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241205110528.png",
-    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241205110145.png",
-    "BASES DE DATOS/Archivos/bibliografia/TODOS LOS MER MR y SQL_300722145848-2.pdf",
-    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241204135523.png",
-    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241204135457.png",
-    "AED/archivos/ejercicios/9.EjercicioOptimizacionBacktracking.pdf",
-    "AED/archivos/ejercicios/8.EjercicioHash.pdf",
-    "AED/archivos/ejercicios/9.EjercicioRyP.pdf",
-    "AED/archivos/ejercicios/9.EjercicioAsignacionBacktracking.pdf",
     "AED/7. Tablas Hash.md",
-    "SISTEMAS OPERATIVOS/2. PROCESOS E HILOS.md",
-    "Tareas.md",
-    "Examen AED.md",
-    "AED/archivos/bibliografia/9.EstrategiasAlgoritmicasv2.pdf",
-    "AED/archivos/bibliografia/8.Hash.pdf",
-    "AED/archivos/ejercicios/5. Soluciones_Ejercicio1_2_5_6.pdf",
-    "archivos/imagenes",
-    "AED/8. Estrategias Algorítmicas.md",
-    "README.md",
-    "Informe de Captura de Paquetes.md",
-    "Informe, Análisis de Tablas Hash.md",
-    "BASES DE DATOS/7. Structured Query Languaje (SQL) Otros Elementos.md",
-    "BASES DE DATOS/8. Normalización del Modelo Relacional.md",
-    "BASES DE DATOS/3. Transformación de MER  a MR.md",
-    "BASES DE DATOS/3.1 Casos Transformación MER a MR.md",
-    "BASES DE DATOS/6. Structured Query Languaje (SQL) Consultas.md",
-    "BASES DE DATOS/5. Structured Query Lanjuaje (SQL), Tablas y Vistas.md",
-    "POO/4. Herencia.md",
-    "POO/3. Conjuntos de datos.md",
-    "POO/5. Polimorfismo.md",
     "AED/6. Grafos II.md",
     "AED/5. Grafos I.md",
     "AED/3. Árboles Equilibrados AVL.md",
-    "AED/4. Árboles equilibrados B y B+.md",
     "AED/2. ESTRUCTURAS PARA BÚSQUEDA.md",
     "AED/1. ÁRBOLES BINARIOS.md",
-    "BASES DE DATOS/4. Lenguajes Formales de Consulta.md"
+    "BASES DE DATOS/7. Structured Query Languaje (SQL) Otros Elementos.md",
+    "BASES DE DATOS/8. Normalización del Modelo Relacional.md",
+    "BASES DE DATOS/1. MODELO ENTIDAD RELACIÓN.md",
+    "SISTEMAS OPERATIVOS/3. Gestión de la Memoria.md",
+    "SISTEMAS OPERATIVOS/2. PROCESOS E HILOS.md",
+    "SISTEMAS OPERATIVOS/1. INTRODUCCIÓN A LOS SISTEMAS OPERATIVOS.md",
+    "REDES/5. Capa de Enlace.md",
+    "REDES/4.1 Ejercicios Capa de Red.md",
+    "REDES/4. Capa de Red.md",
+    "REDES/3.1 Ejercicios Capa de Transporte.md",
+    "REDES/3. Capa de Transporte.md",
+    "REDES/2.1 Ejercicios Capa de Aplicación.md",
+    "REDES/2. Capa de Aplicación.md",
+    "REDES/1. Introducción.md",
+    "REDES/1.1 Ejercicios Introducción.md",
+    "POO/7. Excepciones.md",
+    "POO/6. Interfaces.md",
+    "POO/5. Polimorfismo.md",
+    "POO/4. Herencia.md",
+    "POO/3. Conjuntos de datos.md",
+    "SISTEMAS OPERATIVOS/archivos/bibliografia/2-Sistemas operativos moderno 3ed Tanenbaum.pdf",
+    "BASES DE DATOS/Archivos/bibliografia/Resumen bueno Bases I_300722150058.pdf",
+    "BASES DE DATOS/Archivos/bibliografia/bases_datos.pdf",
+    "BASES DE DATOS/Archivos/bibliografia/TODOS LOS MER MR y SQL_300722145848-2.pdf",
+    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241212102354.png",
+    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241212101532.png",
+    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241212095120.png",
+    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241212094932.png",
+    "Calendario",
+    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241209122549.png",
+    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241209122140.png",
+    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241209105515.png",
+    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241209105213.png",
+    "SISTEMAS OPERATIVOS/archivos/bibliografia/Andrew S. Tanenbaum - Sistemas Operativos Modernos 2º Edición Solucionario.en.es.pdf",
+    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241209094711.png",
+    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241209094617.png",
+    "SISTEMAS OPERATIVOS/archivos/bibliografia/SisOp-nico-1.pdf",
+    "SISTEMAS OPERATIVOS/archivos/bibliografia/Apuntes SOI 22-23_270923124452.pdf",
+    "REDES/archivos/ejercicios/SolucionesPropias/QuirogaLinaresAdrian_BoletinRedesV1.pdf",
+    "POO/archivos/bibliografia/ResumenPOO_BUENO_140123094549.pdf"
   ]
 }
