@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "📣",
+      "🇩🇴",
       "💪",
       "🙄",
-      "🚷",
-      "🔌",
-      "💅"
+      "🚷"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -83,5 +83,7 @@
   "AED/7. Tablas Hash.md": "💹",
   "AED/8. Estrategias Algorítmicas.md": "🚷",
   "POO/6. Interfaces.md": "🙄",
-  "POO/7. Excepciones.md": "💪"
+  "POO/7. Excepciones.md": "💪",
+  "SISTEMAS OPERATIVOS/2.1 Procesos.md": "🇩🇴",
+  "SISTEMAS OPERATIVOS/2.2 Señales.md": "📣"
 }

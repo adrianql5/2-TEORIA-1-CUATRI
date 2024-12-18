@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9f91d48fd4583133",
+        "id": "6356f85c6399a124",
         "type": "tabs",
         "children": [
           {
-            "id": "432b08c81c8da99d",
+            "id": "5c9473d006d644c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AED/8. Estrategias Algorítmicas.md",
+                "file": "POO/6. Interfaces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. Estrategias Algorítmicas"
+              "title": "6. Interfaces"
             }
           }
         ]
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
   "right": {
     "id": "7c9412205df433aa",
@@ -164,53 +165,53 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "432b08c81c8da99d",
+  "active": "5c9473d006d644c6",
   "lastOpenFiles": [
+    "POO/archivos/imagenes/Pasted image 20241218171057.png",
+    "POO/archivos/imagenes/Pasted image 20241218164032.png",
+    "POO/archivos/imagenes/Pasted image 20241218162216.png",
+    "POO/5. Polimorfismo.md",
+    "POO/6. Interfaces.md",
+    "POO/archivos/imagenes/Pasted image 20241218160011.png",
+    "POO/archivos/imagenes/Pasted image 20241218131116.png",
+    "POO/archivos/imagenes/Pasted image 20241218122846.png",
+    "POO/archivos/imagenes/Pasted image 20241218122740.png",
+    "POO/archivos/imagenes/Pasted image 20241218122712.png",
+    "POO/4. Herencia.md",
+    "SISTEMAS OPERATIVOS/archivos/bibliografia/SOIFINAL.pdf",
+    "SISTEMAS OPERATIVOS/2. PROCESOS E HILOS.md",
+    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241218085522.png",
+    "SISTEMAS OPERATIVOS/1. INTRODUCCIÓN A LOS SISTEMAS OPERATIVOS.md",
+    "POO/archivos/imagenes/Pasted image 20241217191655.png",
+    "POO/3. Conjuntos de datos.md",
+    "SISTEMAS OPERATIVOS/3. Gestión de la Memoria.md",
+    "SISTEMAS OPERATIVOS/2.2 Señales.md",
+    "SISTEMAS OPERATIVOS/2.1 Procesos.md",
+    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241217190034.png",
+    "Tareas.md",
+    "SISTEMAS OPERATIVOS/archivos/bibliografia/2-Sistemas operativos moderno 3ed Tanenbaum.pdf",
+    "SISTEMAS OPERATIVOS/archivos/bibliografia/Andrew S. Tanenbaum - Sistemas Operativos Modernos 2º Edición Solucionario.PDF",
+    "BASES DE DATOS/Archivos/bibliografia/Resumen bueno Bases I_300722150058.pdf",
+    "BASES DE DATOS/Archivos/bibliografia/TODOS LOS MER MR y SQL_300722145848-2.pdf",
+    "BASES DE DATOS/7. Structured Query Languaje (SQL) Otros Elementos.md",
+    "BASES DE DATOS/SQL CHEAT SHEET.md",
+    "BASES DE DATOS/5. Structured Query Lanjuaje (SQL), Tablas y Vistas.md",
+    "POO/archivos/bibliografia/3. Conjuntos de datos - Arrays, colecciones, listas, conjuntos y mapas.pdf",
+    "POO/archivos/bibliografia/2. Clases y tipos de datos - Tipos primitivos, referencias y aliasing.pdf",
+    "BASES DE DATOS/5.1 Ejercicios sql.md",
+    "POO/archivos/bibliografia/4. Herencia - Jerarquías de clases, composición y abstracción.pdf",
+    "POO/archivos/bibliografia/6. Interfaces -Abstracción e independencia de clases.pdf",
+    "POO/archivos/bibliografia/7. Excepciones - Gestión de errores y excepciones.pdf",
+    "POO/2. Clases y tipos de datos.md",
+    "POO/1. Encapsulación.md",
+    "AED/8. Estrategias Algorítmicas.md",
     "AED/7. Tablas Hash.md",
     "AED/6. Grafos II.md",
     "AED/5. Grafos I.md",
     "AED/3. Árboles Equilibrados AVL.md",
     "AED/2. ESTRUCTURAS PARA BÚSQUEDA.md",
     "AED/1. ÁRBOLES BINARIOS.md",
-    "BASES DE DATOS/7. Structured Query Languaje (SQL) Otros Elementos.md",
     "BASES DE DATOS/8. Normalización del Modelo Relacional.md",
-    "BASES DE DATOS/1. MODELO ENTIDAD RELACIÓN.md",
-    "SISTEMAS OPERATIVOS/3. Gestión de la Memoria.md",
-    "SISTEMAS OPERATIVOS/2. PROCESOS E HILOS.md",
-    "SISTEMAS OPERATIVOS/1. INTRODUCCIÓN A LOS SISTEMAS OPERATIVOS.md",
-    "REDES/5. Capa de Enlace.md",
-    "REDES/4.1 Ejercicios Capa de Red.md",
-    "REDES/4. Capa de Red.md",
-    "REDES/3.1 Ejercicios Capa de Transporte.md",
-    "REDES/3. Capa de Transporte.md",
-    "REDES/2.1 Ejercicios Capa de Aplicación.md",
-    "REDES/2. Capa de Aplicación.md",
-    "REDES/1. Introducción.md",
-    "REDES/1.1 Ejercicios Introducción.md",
-    "POO/7. Excepciones.md",
-    "POO/6. Interfaces.md",
-    "POO/5. Polimorfismo.md",
-    "POO/4. Herencia.md",
-    "POO/3. Conjuntos de datos.md",
-    "SISTEMAS OPERATIVOS/archivos/bibliografia/2-Sistemas operativos moderno 3ed Tanenbaum.pdf",
-    "BASES DE DATOS/Archivos/bibliografia/Resumen bueno Bases I_300722150058.pdf",
-    "BASES DE DATOS/Archivos/bibliografia/bases_datos.pdf",
-    "BASES DE DATOS/Archivos/bibliografia/TODOS LOS MER MR y SQL_300722145848-2.pdf",
-    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241212102354.png",
-    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241212101532.png",
-    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241212095120.png",
-    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241212094932.png",
-    "Calendario",
-    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241209122549.png",
-    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241209122140.png",
-    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241209105515.png",
-    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241209105213.png",
-    "SISTEMAS OPERATIVOS/archivos/bibliografia/Andrew S. Tanenbaum - Sistemas Operativos Modernos 2º Edición Solucionario.en.es.pdf",
-    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241209094711.png",
-    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241209094617.png",
-    "SISTEMAS OPERATIVOS/archivos/bibliografia/SisOp-nico-1.pdf",
-    "SISTEMAS OPERATIVOS/archivos/bibliografia/Apuntes SOI 22-23_270923124452.pdf",
-    "REDES/archivos/ejercicios/SolucionesPropias/QuirogaLinaresAdrian_BoletinRedesV1.pdf",
-    "POO/archivos/bibliografia/ResumenPOO_BUENO_140123094549.pdf"
+    "BASES DE DATOS/1. MODELO ENTIDAD RELACIÓN.md"
   ]
 }
