@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6356f85c6399a124",
+        "id": "0b5278f331b3e76f",
         "type": "tabs",
         "children": [
           {
-            "id": "5c9473d006d644c6",
+            "id": "664f38daab614629",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POO/6. Interfaces.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "6. Interfaces"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -165,29 +161,35 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "5c9473d006d644c6",
+  "active": "664f38daab614629",
   "lastOpenFiles": [
+    "POO/3. Conjuntos de datos.md",
+    "POO/Protips para el Final.md",
+    "POO/2. Clases y tipos de datos.md",
+    "POO/1. Encapsulación.md",
+    "POO/5. Polimorfismo.md",
+    "POO/archivos/bibliografia/3. Conjuntos de datos - Arrays, colecciones, listas, conjuntos y mapas.pdf",
+    "POO/archivos/bibliografia/4. Herencia - Jerarquías de clases, composición y abstracción.pdf",
+    "POO/7. Excepciones.md",
+    "POO/archivos/imagenes/Pasted image 20241218192924.png",
+    "REDES/4. Capa de Red.md",
+    "POO/archivos/imagenes/Pasted image 20241218191804.png",
+    "POO/archivos/imagenes/Pasted image 20241218191003.png",
+    "POO/6. Interfaces.md",
+    "POO/archivos/imagenes/Pasted image 20241218171527.png",
     "POO/archivos/imagenes/Pasted image 20241218171057.png",
     "POO/archivos/imagenes/Pasted image 20241218164032.png",
     "POO/archivos/imagenes/Pasted image 20241218162216.png",
-    "POO/5. Polimorfismo.md",
-    "POO/6. Interfaces.md",
     "POO/archivos/imagenes/Pasted image 20241218160011.png",
     "POO/archivos/imagenes/Pasted image 20241218131116.png",
     "POO/archivos/imagenes/Pasted image 20241218122846.png",
-    "POO/archivos/imagenes/Pasted image 20241218122740.png",
-    "POO/archivos/imagenes/Pasted image 20241218122712.png",
     "POO/4. Herencia.md",
     "SISTEMAS OPERATIVOS/archivos/bibliografia/SOIFINAL.pdf",
     "SISTEMAS OPERATIVOS/2. PROCESOS E HILOS.md",
-    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241218085522.png",
     "SISTEMAS OPERATIVOS/1. INTRODUCCIÓN A LOS SISTEMAS OPERATIVOS.md",
-    "POO/archivos/imagenes/Pasted image 20241217191655.png",
-    "POO/3. Conjuntos de datos.md",
     "SISTEMAS OPERATIVOS/3. Gestión de la Memoria.md",
     "SISTEMAS OPERATIVOS/2.2 Señales.md",
     "SISTEMAS OPERATIVOS/2.1 Procesos.md",
-    "SISTEMAS OPERATIVOS/archivos/imagenes/Pasted image 20241217190034.png",
     "Tareas.md",
     "SISTEMAS OPERATIVOS/archivos/bibliografia/2-Sistemas operativos moderno 3ed Tanenbaum.pdf",
     "SISTEMAS OPERATIVOS/archivos/bibliografia/Andrew S. Tanenbaum - Sistemas Operativos Modernos 2º Edición Solucionario.PDF",
@@ -196,22 +198,15 @@
     "BASES DE DATOS/7. Structured Query Languaje (SQL) Otros Elementos.md",
     "BASES DE DATOS/SQL CHEAT SHEET.md",
     "BASES DE DATOS/5. Structured Query Lanjuaje (SQL), Tablas y Vistas.md",
-    "POO/archivos/bibliografia/3. Conjuntos de datos - Arrays, colecciones, listas, conjuntos y mapas.pdf",
     "POO/archivos/bibliografia/2. Clases y tipos de datos - Tipos primitivos, referencias y aliasing.pdf",
     "BASES DE DATOS/5.1 Ejercicios sql.md",
-    "POO/archivos/bibliografia/4. Herencia - Jerarquías de clases, composición y abstracción.pdf",
     "POO/archivos/bibliografia/6. Interfaces -Abstracción e independencia de clases.pdf",
     "POO/archivos/bibliografia/7. Excepciones - Gestión de errores y excepciones.pdf",
-    "POO/2. Clases y tipos de datos.md",
-    "POO/1. Encapsulación.md",
     "AED/8. Estrategias Algorítmicas.md",
     "AED/7. Tablas Hash.md",
     "AED/6. Grafos II.md",
     "AED/5. Grafos I.md",
     "AED/3. Árboles Equilibrados AVL.md",
-    "AED/2. ESTRUCTURAS PARA BÚSQUEDA.md",
-    "AED/1. ÁRBOLES BINARIOS.md",
-    "BASES DE DATOS/8. Normalización del Modelo Relacional.md",
-    "BASES DE DATOS/1. MODELO ENTIDAD RELACIÓN.md"
+    "AED/2. ESTRUCTURAS PARA BÚSQUEDA.md"
   ]
 }
