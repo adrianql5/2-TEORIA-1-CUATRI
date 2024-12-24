@@ -32,6 +32,20 @@
             }
           },
           {
+            "id": "958a41713dd2ec69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BASES DE DATOS/9. Sistemas de Bases de Datos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9. Sistemas de Bases de Datos"
+            }
+          },
+          {
             "id": "f8d08917369eb830",
             "type": "leaf",
             "state": {
@@ -44,7 +58,25 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "1e67bfbc3f072cad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "552bc4b729aa03dd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "BASES DE DATOS/Archivos/bibliografia/Resumen bueno Bases I_300722150058.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Resumen bueno Bases I_300722150058"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +132,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
   "right": {
     "id": "7c9412205df433aa",
@@ -187,17 +220,18 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "393cd686a448de50",
+  "active": "958a41713dd2ec69",
   "lastOpenFiles": [
-    "BASES DE DATOS/TODOS LOS MER MR y SQL_300722145848-2.pdf",
+    "BASES DE DATOS/Archivos/bibliografia/Resumen bueno Bases I_300722150058.pdf",
+    "BASES DE DATOS/9. Sistemas de Bases de Datos.md",
     "BASES DE DATOS/8. Normalización del Modelo Relacional.md",
+    "BASES DE DATOS/TODOS LOS MER MR y SQL_300722145848-2.pdf",
     "BASES DE DATOS/SQL CHEAT SHEET.md",
     "BASES DE DATOS/Archivos/imagenes/Pasted image 20241224132906.png",
     "BASES DE DATOS/Archivos/imagenes/Pasted image 20241224121236.png",
     "BASES DE DATOS/7. Structured Query Languaje (SQL) Otros Elementos.md",
     "BASES DE DATOS/6. Structured Query Languaje (SQL) Consultas.md",
     "BASES DE DATOS/Archivos/imagenes/Pasted image 20241224093618.png",
-    "BASES DE DATOS/Archivos/bibliografia/Resumen bueno Bases I_300722150058.pdf",
     "BASES DE DATOS/5. Structured Query Lanjuaje (SQL), Tablas y Vistas.md",
     "BASES DE DATOS/4.1 Ejercicios Álgebra Relacional.md",
     "BASES DE DATOS/4. Lenguajes Formales de Consulta.md",
@@ -226,14 +260,12 @@
     "Calendario/2024-12-23 Hacer MERs.md",
     "Calendario/2024-12-23 Estudiar BD Teoría.md",
     "Calendario/2024-12-22 Estudiar BD Teoría.md",
-    "SISTEMAS OPERATIVOS/3. Gestión de la Memoria.md",
     "SISTEMAS OPERATIVOS/archivos/bibliografia/SOIFINAL.pdf",
     "SISTEMAS OPERATIVOS/archivos/bibliografia/2-Sistemas operativos moderno 3ed Tanenbaum.pdf",
     "SISTEMAS OPERATIVOS/archivos/bibliografia/Andrew S. Tanenbaum - Sistemas Operativos Modernos 2º Edición Solucionario.PDF",
     "POO/archivos/bibliografia/3. Conjuntos de datos - Arrays, colecciones, listas, conjuntos y mapas.pdf",
     "POO/archivos/bibliografia/4. Herencia - Jerarquías de clases, composición y abstracción.pdf",
     "BASES DE DATOS/Archivos/bibliografia/TODOS LOS MER MR y SQL_300722145848-2.pdf",
-    "POO/archivos/bibliografia/2. Clases y tipos de datos - Tipos primitivos, referencias y aliasing.pdf",
-    "POO/archivos/bibliografia/6. Interfaces -Abstracción e independencia de clases.pdf"
+    "POO/archivos/bibliografia/2. Clases y tipos de datos - Tipos primitivos, referencias y aliasing.pdf"
   ]
 }
