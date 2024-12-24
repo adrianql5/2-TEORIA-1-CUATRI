@@ -4,20 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "0b5278f331b3e76f",
+        "id": "9fde337578cea7bc",
         "type": "tabs",
         "children": [
           {
-            "id": "664f38daab614629",
+            "id": "0eb15a19c0dc5eee",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "full-calendar-view",
               "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "801c2a5dd0271f51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BASES DE DATOS/8. Normalización del Modelo Relacional.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "8. Normalización del Modelo Relacional"
+            }
+          },
+          {
+            "id": "f8d08917369eb830",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "BASES DE DATOS/Archivos/bibliografia/Resumen bueno Bases I_300722150058.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Resumen bueno Bases I_300722150058"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
   "right": {
     "id": "7c9412205df433aa",
@@ -161,52 +187,53 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "664f38daab614629",
+  "active": "393cd686a448de50",
   "lastOpenFiles": [
-    "POO/3. Conjuntos de datos.md",
-    "POO/Protips para el Final.md",
-    "POO/2. Clases y tipos de datos.md",
-    "POO/1. Encapsulación.md",
-    "POO/5. Polimorfismo.md",
-    "POO/archivos/bibliografia/3. Conjuntos de datos - Arrays, colecciones, listas, conjuntos y mapas.pdf",
-    "POO/archivos/bibliografia/4. Herencia - Jerarquías de clases, composición y abstracción.pdf",
-    "POO/7. Excepciones.md",
-    "POO/archivos/imagenes/Pasted image 20241218192924.png",
-    "REDES/4. Capa de Red.md",
-    "POO/archivos/imagenes/Pasted image 20241218191804.png",
-    "POO/archivos/imagenes/Pasted image 20241218191003.png",
-    "POO/6. Interfaces.md",
-    "POO/archivos/imagenes/Pasted image 20241218171527.png",
-    "POO/archivos/imagenes/Pasted image 20241218171057.png",
-    "POO/archivos/imagenes/Pasted image 20241218164032.png",
-    "POO/archivos/imagenes/Pasted image 20241218162216.png",
-    "POO/archivos/imagenes/Pasted image 20241218160011.png",
-    "POO/archivos/imagenes/Pasted image 20241218131116.png",
-    "POO/archivos/imagenes/Pasted image 20241218122846.png",
-    "POO/4. Herencia.md",
-    "SISTEMAS OPERATIVOS/archivos/bibliografia/SOIFINAL.pdf",
-    "SISTEMAS OPERATIVOS/2. PROCESOS E HILOS.md",
-    "SISTEMAS OPERATIVOS/1. INTRODUCCIÓN A LOS SISTEMAS OPERATIVOS.md",
+    "BASES DE DATOS/TODOS LOS MER MR y SQL_300722145848-2.pdf",
+    "BASES DE DATOS/8. Normalización del Modelo Relacional.md",
+    "BASES DE DATOS/SQL CHEAT SHEET.md",
+    "BASES DE DATOS/Archivos/imagenes/Pasted image 20241224132906.png",
+    "BASES DE DATOS/Archivos/imagenes/Pasted image 20241224121236.png",
+    "BASES DE DATOS/7. Structured Query Languaje (SQL) Otros Elementos.md",
+    "BASES DE DATOS/6. Structured Query Languaje (SQL) Consultas.md",
+    "BASES DE DATOS/Archivos/imagenes/Pasted image 20241224093618.png",
+    "BASES DE DATOS/Archivos/bibliografia/Resumen bueno Bases I_300722150058.pdf",
+    "BASES DE DATOS/5. Structured Query Lanjuaje (SQL), Tablas y Vistas.md",
+    "BASES DE DATOS/4.1 Ejercicios Álgebra Relacional.md",
+    "BASES DE DATOS/4. Lenguajes Formales de Consulta.md",
+    "BASES DE DATOS/Archivos/bibliografia/bases_datos.pdf",
+    "BASES DE DATOS/Archivos/imagenes/Pasted image 20241223175121.png",
+    "BASES DE DATOS/Archivos/imagenes/Pasted image 20241223175108.png",
+    "BASES DE DATOS/Archivos/imagenes/Pasted image 20241223175048.png",
+    "BASES DE DATOS/3. Transformación de MER  a MR.md",
+    "BASES DE DATOS/2. MODELO RELACIONAL.md",
+    "BASES DE DATOS/Archivos/imagenes/Pasted image 20241223155153.png",
+    "BASES DE DATOS/Archivos/imagenes/Pasted image 20241223152609.png",
+    "BASES DE DATOS/1. MODELO ENTIDAD RELACIÓN.md",
+    "BASES DE DATOS/2.1 Casos MR.md",
+    "BASES DE DATOS/Archivos/imagenes/Pasted image 20241223121236.png",
+    "BASES DE DATOS/Archivos/imagenes/Pasted image 20241223103952.png",
+    "Calendario/2024-12-11 Estudiar tema 1 de SOI tomando apuntes.md",
+    "REDES/1. Introducción.md",
+    "REDES/1.1 Ejercicios Introducción.md",
+    "Calendario/2024-12-26 Repasar POO.md",
+    "Calendario/2024-12-25 Hacer Ejs redes y repasar teoria.md",
+    "Calendario/2024-12-24 Hacer examenes redes.md",
+    "Calendario/2024-12-24 Hacer examenes Redes.md",
+    "Calendario/2024-12-24 Hacer Ejs AED.md",
+    "Calendario/2024-12-23 Pasar de MER a MR.md",
+    "Calendario/2024-12-23 Estudiar BD Teoriía.md",
+    "Calendario/2024-12-23 Hacer MERs.md",
+    "Calendario/2024-12-23 Estudiar BD Teoría.md",
+    "Calendario/2024-12-22 Estudiar BD Teoría.md",
     "SISTEMAS OPERATIVOS/3. Gestión de la Memoria.md",
-    "SISTEMAS OPERATIVOS/2.2 Señales.md",
-    "SISTEMAS OPERATIVOS/2.1 Procesos.md",
-    "Tareas.md",
+    "SISTEMAS OPERATIVOS/archivos/bibliografia/SOIFINAL.pdf",
     "SISTEMAS OPERATIVOS/archivos/bibliografia/2-Sistemas operativos moderno 3ed Tanenbaum.pdf",
     "SISTEMAS OPERATIVOS/archivos/bibliografia/Andrew S. Tanenbaum - Sistemas Operativos Modernos 2º Edición Solucionario.PDF",
-    "BASES DE DATOS/Archivos/bibliografia/Resumen bueno Bases I_300722150058.pdf",
+    "POO/archivos/bibliografia/3. Conjuntos de datos - Arrays, colecciones, listas, conjuntos y mapas.pdf",
+    "POO/archivos/bibliografia/4. Herencia - Jerarquías de clases, composición y abstracción.pdf",
     "BASES DE DATOS/Archivos/bibliografia/TODOS LOS MER MR y SQL_300722145848-2.pdf",
-    "BASES DE DATOS/7. Structured Query Languaje (SQL) Otros Elementos.md",
-    "BASES DE DATOS/SQL CHEAT SHEET.md",
-    "BASES DE DATOS/5. Structured Query Lanjuaje (SQL), Tablas y Vistas.md",
     "POO/archivos/bibliografia/2. Clases y tipos de datos - Tipos primitivos, referencias y aliasing.pdf",
-    "BASES DE DATOS/5.1 Ejercicios sql.md",
-    "POO/archivos/bibliografia/6. Interfaces -Abstracción e independencia de clases.pdf",
-    "POO/archivos/bibliografia/7. Excepciones - Gestión de errores y excepciones.pdf",
-    "AED/8. Estrategias Algorítmicas.md",
-    "AED/7. Tablas Hash.md",
-    "AED/6. Grafos II.md",
-    "AED/5. Grafos I.md",
-    "AED/3. Árboles Equilibrados AVL.md",
-    "AED/2. ESTRUCTURAS PARA BÚSQUEDA.md"
+    "POO/archivos/bibliografia/6. Interfaces -Abstracción e independencia de clases.pdf"
   ]
 }
