@@ -4,76 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9fde337578cea7bc",
+        "id": "c5ddbbbd2814d20a",
         "type": "tabs",
         "children": [
           {
-            "id": "0eb15a19c0dc5eee",
+            "id": "59c06fae7b853386",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
+              "type": "empty",
               "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "801c2a5dd0271f51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BASES DE DATOS/8. Normalización del Modelo Relacional.md",
-                "mode": "source",
-                "source": false
-              },
               "icon": "lucide-file",
-              "title": "8. Normalización del Modelo Relacional"
-            }
-          },
-          {
-            "id": "958a41713dd2ec69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BASES DE DATOS/9. Sistemas de Bases de Datos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "9. Sistemas de Bases de Datos"
-            }
-          },
-          {
-            "id": "f8d08917369eb830",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "BASES DE DATOS/Archivos/bibliografia/Resumen bueno Bases I_300722150058.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Resumen bueno Bases I_300722150058"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "1e67bfbc3f072cad",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "552bc4b729aa03dd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "BASES DE DATOS/Archivos/bibliografia/Resumen bueno Bases I_300722150058.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Resumen bueno Bases I_300722150058"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -132,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
   "right": {
     "id": "7c9412205df433aa",
@@ -220,11 +160,26 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "958a41713dd2ec69",
+  "active": "59c06fae7b853386",
   "lastOpenFiles": [
-    "BASES DE DATOS/Archivos/bibliografia/Resumen bueno Bases I_300722150058.pdf",
-    "BASES DE DATOS/9. Sistemas de Bases de Datos.md",
+    "AED/archivos/bibliografia/9.EstrategiasAlgoritmicasv2.pdf",
+    "AED/archivos/bibliografia/ApuntesAED_070119184232.pdf",
+    "AED/archivos/bibliografia/5. ArbolesIV_B.pdf",
+    "AED/archivos/bibliografia/3. Arboles II.pdf",
+    "AED/archivos/bibliografia/8.Hash.pdf",
+    "AED/archivos/bibliografia/7. GrafosII.pdf",
+    "AED/archivos/bibliografia/6. GrafosI.pdf",
+    "AED/6. Grafos II.md",
+    "AED/5. Grafos I.md",
+    "AED/archivos/bibliografia/4. ArbolesIII_AVL.pdf",
+    "AED/archivos/bibliografia/2. Arboles I.pdf",
+    "AED/1. ÁRBOLES BINARIOS.md",
+    "AED/4. Árboles equilibrados B y B+.md",
+    "AED/3. Árboles Equilibrados AVL.md",
+    "AED/2. ESTRUCTURAS PARA BÚSQUEDA.md",
     "BASES DE DATOS/8. Normalización del Modelo Relacional.md",
+    "BASES DE DATOS/9. Sistemas de Bases de Datos.md",
+    "BASES DE DATOS/Archivos/bibliografia/Resumen bueno Bases I_300722150058.pdf",
     "BASES DE DATOS/TODOS LOS MER MR y SQL_300722145848-2.pdf",
     "BASES DE DATOS/SQL CHEAT SHEET.md",
     "BASES DE DATOS/Archivos/imagenes/Pasted image 20241224132906.png",
@@ -235,7 +190,6 @@
     "BASES DE DATOS/5. Structured Query Lanjuaje (SQL), Tablas y Vistas.md",
     "BASES DE DATOS/4.1 Ejercicios Álgebra Relacional.md",
     "BASES DE DATOS/4. Lenguajes Formales de Consulta.md",
-    "BASES DE DATOS/Archivos/bibliografia/bases_datos.pdf",
     "BASES DE DATOS/Archivos/imagenes/Pasted image 20241223175121.png",
     "BASES DE DATOS/Archivos/imagenes/Pasted image 20241223175108.png",
     "BASES DE DATOS/Archivos/imagenes/Pasted image 20241223175048.png",
@@ -253,19 +207,6 @@
     "Calendario/2024-12-26 Repasar POO.md",
     "Calendario/2024-12-25 Hacer Ejs redes y repasar teoria.md",
     "Calendario/2024-12-24 Hacer examenes redes.md",
-    "Calendario/2024-12-24 Hacer examenes Redes.md",
-    "Calendario/2024-12-24 Hacer Ejs AED.md",
-    "Calendario/2024-12-23 Pasar de MER a MR.md",
-    "Calendario/2024-12-23 Estudiar BD Teoriía.md",
-    "Calendario/2024-12-23 Hacer MERs.md",
-    "Calendario/2024-12-23 Estudiar BD Teoría.md",
-    "Calendario/2024-12-22 Estudiar BD Teoría.md",
-    "SISTEMAS OPERATIVOS/archivos/bibliografia/SOIFINAL.pdf",
-    "SISTEMAS OPERATIVOS/archivos/bibliografia/2-Sistemas operativos moderno 3ed Tanenbaum.pdf",
-    "SISTEMAS OPERATIVOS/archivos/bibliografia/Andrew S. Tanenbaum - Sistemas Operativos Modernos 2º Edición Solucionario.PDF",
-    "POO/archivos/bibliografia/3. Conjuntos de datos - Arrays, colecciones, listas, conjuntos y mapas.pdf",
-    "POO/archivos/bibliografia/4. Herencia - Jerarquías de clases, composición y abstracción.pdf",
-    "BASES DE DATOS/Archivos/bibliografia/TODOS LOS MER MR y SQL_300722145848-2.pdf",
-    "POO/archivos/bibliografia/2. Clases y tipos de datos - Tipos primitivos, referencias y aliasing.pdf"
+    "Calendario/2024-12-24 Hacer examenes Redes.md"
   ]
 }
