@@ -11,10 +11,56 @@
             "id": "59c06fae7b853386",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "REDES/3. Capa de Transporte.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "3. Capa de Transporte"
+            }
+          },
+          {
+            "id": "c235c1d9979c8d0e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "REDES/archivos/bibliografia/[1] Redes de Computadores.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "[1] Redes de Computadores"
+            }
+          },
+          {
+            "id": "a71025d75adef118",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "REDES/archivos/bibliografia/tcpip-nico.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "tcpip-nico"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a04eaf95b09d7b15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d68c052eb500d9df",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "REDES/archivos/bibliografia/Tema3Redes.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Tema3Redes"
             }
           }
         ]
@@ -73,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
   "right": {
     "id": "7c9412205df433aa",
@@ -162,25 +209,39 @@
   },
   "active": "59c06fae7b853386",
   "lastOpenFiles": [
+    "REDES/archivos/bibliografia/[1] Redes de Computadores.pdf",
+    "REDES/3. Capa de Transporte.md",
+    "REDES/archivos/imagenes/Pasted image 20241229170931.png",
+    "REDES/archivos/imagenes/Pasted image 20241229170914.png",
+    "REDES/archivos/imagenes/Pasted image 20241229170859.png",
+    "REDES/archivos/bibliografia/tcpip-nico.pdf",
+    "REDES/archivos/bibliografia/Tema3Redes.pdf",
+    "REDES/archivos/imagenes/Pasted image 20241229163142.png",
+    "a.md",
+    "REDES/archivos/bibliografia/Tema2Redes.pdf",
+    "REDES/4. Capa de Red.md",
+    "REDES/archivos/imagenes/Pasted image 20241229130340.png",
+    "REDES/archivos/imagenes/Pasted image 20241229124710.png",
+    "REDES/2.1 Ejercicios Capa de Aplicación.md",
+    "REDES/1. Introducción.md",
+    "REDES/2. Capa de Aplicación.md",
+    "REDES/archivos/bibliografia/Tema1Redes.pdf",
+    "REDES/archivos/imagenes/Pasted image 20241229110333.png",
+    "REDES/1.1 Ejercicios Introducción.md",
+    "REDES/0. BOLETIN DE REDES.md",
     "AED/archivos/bibliografia/9.EstrategiasAlgoritmicasv2.pdf",
     "AED/archivos/bibliografia/ApuntesAED_070119184232.pdf",
     "AED/archivos/bibliografia/5. ArbolesIV_B.pdf",
     "AED/archivos/bibliografia/3. Arboles II.pdf",
     "AED/archivos/bibliografia/8.Hash.pdf",
-    "AED/archivos/bibliografia/7. GrafosII.pdf",
-    "AED/archivos/bibliografia/6. GrafosI.pdf",
     "AED/6. Grafos II.md",
     "AED/5. Grafos I.md",
-    "AED/archivos/bibliografia/4. ArbolesIII_AVL.pdf",
-    "AED/archivos/bibliografia/2. Arboles I.pdf",
     "AED/1. ÁRBOLES BINARIOS.md",
     "AED/4. Árboles equilibrados B y B+.md",
     "AED/3. Árboles Equilibrados AVL.md",
     "AED/2. ESTRUCTURAS PARA BÚSQUEDA.md",
     "BASES DE DATOS/8. Normalización del Modelo Relacional.md",
     "BASES DE DATOS/9. Sistemas de Bases de Datos.md",
-    "BASES DE DATOS/Archivos/bibliografia/Resumen bueno Bases I_300722150058.pdf",
-    "BASES DE DATOS/TODOS LOS MER MR y SQL_300722145848-2.pdf",
     "BASES DE DATOS/SQL CHEAT SHEET.md",
     "BASES DE DATOS/Archivos/imagenes/Pasted image 20241224132906.png",
     "BASES DE DATOS/Archivos/imagenes/Pasted image 20241224121236.png",
@@ -190,23 +251,8 @@
     "BASES DE DATOS/5. Structured Query Lanjuaje (SQL), Tablas y Vistas.md",
     "BASES DE DATOS/4.1 Ejercicios Álgebra Relacional.md",
     "BASES DE DATOS/4. Lenguajes Formales de Consulta.md",
-    "BASES DE DATOS/Archivos/imagenes/Pasted image 20241223175121.png",
-    "BASES DE DATOS/Archivos/imagenes/Pasted image 20241223175108.png",
-    "BASES DE DATOS/Archivos/imagenes/Pasted image 20241223175048.png",
     "BASES DE DATOS/3. Transformación de MER  a MR.md",
     "BASES DE DATOS/2. MODELO RELACIONAL.md",
-    "BASES DE DATOS/Archivos/imagenes/Pasted image 20241223155153.png",
-    "BASES DE DATOS/Archivos/imagenes/Pasted image 20241223152609.png",
-    "BASES DE DATOS/1. MODELO ENTIDAD RELACIÓN.md",
-    "BASES DE DATOS/2.1 Casos MR.md",
-    "BASES DE DATOS/Archivos/imagenes/Pasted image 20241223121236.png",
-    "BASES DE DATOS/Archivos/imagenes/Pasted image 20241223103952.png",
-    "Calendario/2024-12-11 Estudiar tema 1 de SOI tomando apuntes.md",
-    "REDES/1. Introducción.md",
-    "REDES/1.1 Ejercicios Introducción.md",
-    "Calendario/2024-12-26 Repasar POO.md",
-    "Calendario/2024-12-25 Hacer Ejs redes y repasar teoria.md",
-    "Calendario/2024-12-24 Hacer examenes redes.md",
-    "Calendario/2024-12-24 Hacer examenes Redes.md"
+    "BASES DE DATOS/1. MODELO ENTIDAD RELACIÓN.md"
   ]
 }
