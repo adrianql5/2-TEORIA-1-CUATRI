@@ -8,29 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "59c06fae7b853386",
+            "id": "c235c1d9979c8d0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REDES/3. Capa de Transporte.md",
+                "file": "REDES/5. Capa de Enlace.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Capa de Transporte"
-            }
-          },
-          {
-            "id": "c235c1d9979c8d0e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "REDES/archivos/bibliografia/[1] Redes de Computadores.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "[1] Redes de Computadores"
+              "title": "5. Capa de Enlace"
             }
           },
           {
@@ -43,24 +31,6 @@
               },
               "icon": "lucide-file-text",
               "title": "tcpip-nico"
-            }
-          }
-        ]
-      },
-      {
-        "id": "a04eaf95b09d7b15",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d68c052eb500d9df",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "REDES/archivos/bibliografia/Tema3Redes.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Tema3Redes"
             }
           }
         ]
@@ -207,19 +177,27 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "59c06fae7b853386",
+  "active": "c235c1d9979c8d0e",
   "lastOpenFiles": [
     "REDES/archivos/bibliografia/[1] Redes de Computadores.pdf",
+    "Sin título.md",
+    "Tareas.md",
+    "REDES/4. Capa de Red.md",
+    "Sin título 1.md",
+    "a.md",
+    "REDES/archivos/imagenes/Pasted image 20241230164029.png",
+    "REDES/archivos/imagenes/Pasted image 20241230154927.png",
+    "REDES/archivos/bibliografia/tcpip-nico.pdf",
+    "REDES/archivos/imagenes/Pasted image 20241230113908.png",
+    "o.md",
+    "REDES/3.1 Ejercicios Capa de Transporte.md",
     "REDES/3. Capa de Transporte.md",
     "REDES/archivos/imagenes/Pasted image 20241229170931.png",
     "REDES/archivos/imagenes/Pasted image 20241229170914.png",
     "REDES/archivos/imagenes/Pasted image 20241229170859.png",
-    "REDES/archivos/bibliografia/tcpip-nico.pdf",
     "REDES/archivos/bibliografia/Tema3Redes.pdf",
     "REDES/archivos/imagenes/Pasted image 20241229163142.png",
-    "a.md",
     "REDES/archivos/bibliografia/Tema2Redes.pdf",
-    "REDES/4. Capa de Red.md",
     "REDES/archivos/imagenes/Pasted image 20241229130340.png",
     "REDES/archivos/imagenes/Pasted image 20241229124710.png",
     "REDES/2.1 Ejercicios Capa de Aplicación.md",
@@ -243,16 +221,8 @@
     "BASES DE DATOS/8. Normalización del Modelo Relacional.md",
     "BASES DE DATOS/9. Sistemas de Bases de Datos.md",
     "BASES DE DATOS/SQL CHEAT SHEET.md",
-    "BASES DE DATOS/Archivos/imagenes/Pasted image 20241224132906.png",
-    "BASES DE DATOS/Archivos/imagenes/Pasted image 20241224121236.png",
     "BASES DE DATOS/7. Structured Query Languaje (SQL) Otros Elementos.md",
     "BASES DE DATOS/6. Structured Query Languaje (SQL) Consultas.md",
-    "BASES DE DATOS/Archivos/imagenes/Pasted image 20241224093618.png",
-    "BASES DE DATOS/5. Structured Query Lanjuaje (SQL), Tablas y Vistas.md",
-    "BASES DE DATOS/4.1 Ejercicios Álgebra Relacional.md",
-    "BASES DE DATOS/4. Lenguajes Formales de Consulta.md",
-    "BASES DE DATOS/3. Transformación de MER  a MR.md",
-    "BASES DE DATOS/2. MODELO RELACIONAL.md",
-    "BASES DE DATOS/1. MODELO ENTIDAD RELACIÓN.md"
+    "BASES DE DATOS/5. Structured Query Lanjuaje (SQL), Tablas y Vistas.md"
   ]
 }

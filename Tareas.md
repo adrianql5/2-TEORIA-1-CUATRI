@@ -1,6 +1,0 @@
-- [ ] Estudiar Tema3, mirando tanenbaum
-- [ ] Estudiar POO
-- [ ] Recolocar Libretas
-- [ ] Acabar informe AED
-- [ ] Seguir con la entrega del Monopo
-- [ ] Acabar proyecto BD
