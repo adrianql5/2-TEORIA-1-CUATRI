@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c5ddbbbd2814d20a",
+        "id": "fac52f09e00a3282",
         "type": "tabs",
         "children": [
           {
-            "id": "c235c1d9979c8d0e",
+            "id": "25434208664247f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,18 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "5. Capa de Enlace"
-            }
-          },
-          {
-            "id": "a71025d75adef118",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "REDES/archivos/bibliografia/tcpip-nico.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "tcpip-nico"
             }
           }
         ]
@@ -177,9 +165,20 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "c235c1d9979c8d0e",
+  "active": "25434208664247f9",
   "lastOpenFiles": [
+    "REDES/archivos/imagenes/Pasted image 20241231143106.png",
+    "REDES/5. Capa de Enlace.md",
+    "REDES/archivos/imagenes/Pasted image 20241231130321.png",
+    "REDES/archivos/imagenes/Pasted image 20241231124816.png",
+    "REDES/archivos/bibliografia/Tema4Redes.pdf",
+    "[.md",
+    "POO/2. Clases y tipos de datos.md",
+    "POO/3. Conjuntos de datos.md",
+    "POO/4. Herencia.md",
+    "REDES/archivos/bibliografia/tcpip-nico.pdf",
     "REDES/archivos/bibliografia/[1] Redes de Computadores.pdf",
+    "REDES/archivos/imagenes/Pasted image 20241230190237.png",
     "Sin título.md",
     "Tareas.md",
     "REDES/4. Capa de Red.md",
@@ -187,7 +186,6 @@
     "a.md",
     "REDES/archivos/imagenes/Pasted image 20241230164029.png",
     "REDES/archivos/imagenes/Pasted image 20241230154927.png",
-    "REDES/archivos/bibliografia/tcpip-nico.pdf",
     "REDES/archivos/imagenes/Pasted image 20241230113908.png",
     "o.md",
     "REDES/3.1 Ejercicios Capa de Transporte.md",
@@ -198,31 +196,22 @@
     "REDES/archivos/bibliografia/Tema3Redes.pdf",
     "REDES/archivos/imagenes/Pasted image 20241229163142.png",
     "REDES/archivos/bibliografia/Tema2Redes.pdf",
-    "REDES/archivos/imagenes/Pasted image 20241229130340.png",
-    "REDES/archivos/imagenes/Pasted image 20241229124710.png",
     "REDES/2.1 Ejercicios Capa de Aplicación.md",
     "REDES/1. Introducción.md",
     "REDES/2. Capa de Aplicación.md",
     "REDES/archivos/bibliografia/Tema1Redes.pdf",
-    "REDES/archivos/imagenes/Pasted image 20241229110333.png",
     "REDES/1.1 Ejercicios Introducción.md",
     "REDES/0. BOLETIN DE REDES.md",
     "AED/archivos/bibliografia/9.EstrategiasAlgoritmicasv2.pdf",
     "AED/archivos/bibliografia/ApuntesAED_070119184232.pdf",
     "AED/archivos/bibliografia/5. ArbolesIV_B.pdf",
     "AED/archivos/bibliografia/3. Arboles II.pdf",
-    "AED/archivos/bibliografia/8.Hash.pdf",
     "AED/6. Grafos II.md",
     "AED/5. Grafos I.md",
     "AED/1. ÁRBOLES BINARIOS.md",
     "AED/4. Árboles equilibrados B y B+.md",
     "AED/3. Árboles Equilibrados AVL.md",
     "AED/2. ESTRUCTURAS PARA BÚSQUEDA.md",
-    "BASES DE DATOS/8. Normalización del Modelo Relacional.md",
-    "BASES DE DATOS/9. Sistemas de Bases de Datos.md",
-    "BASES DE DATOS/SQL CHEAT SHEET.md",
-    "BASES DE DATOS/7. Structured Query Languaje (SQL) Otros Elementos.md",
-    "BASES DE DATOS/6. Structured Query Languaje (SQL) Consultas.md",
-    "BASES DE DATOS/5. Structured Query Lanjuaje (SQL), Tablas y Vistas.md"
+    "BASES DE DATOS/8. Normalización del Modelo Relacional.md"
   ]
 }
