@@ -57,8 +57,6 @@
   "BASES DE DATOS/4. Lenguajes Formales de Consulta.md": "📔",
   "POO/1. Encapsulación.md": "📦",
   "POO/2. Clases y tipos de datos.md": "🥂",
-  "SISTEMAS OPERATIVOS/2. PROCESOS E HILOS.md": "🧵",
-  "SISTEMAS OPERATIVOS/1. INTRODUCCIÓN A LOS SISTEMAS OPERATIVOS.md": "🖥",
   "BASES DE DATOS/5. Structured Query Lanjuaje (SQL), Tablas y Vistas.md": "📔",
   "REDES/3.1 Ejercicios Capa de Transporte.md": "🫵",
   "REDES/3. Capa de Transporte.md": "🚄",
@@ -76,13 +74,10 @@
   "POO/3. Conjuntos de datos.md": "👷",
   "POO/4. Herencia.md": "💹",
   "REDES/0. BOLETIN DE REDES.md": "⚠",
-  "SISTEMAS OPERATIVOS/3. Gestión de la Memoria.md": "LiMemoryStick",
   "POO/5. Polimorfismo.md": "💅",
   "REDES/5. Capa de Enlace.md": "🔌",
   "AED/7. Tablas Hash.md": "💹",
   "AED/8. Estrategias Algorítmicas.md": "🚷",
   "POO/6. Interfaces.md": "🙄",
-  "POO/7. Excepciones.md": "💪",
-  "SISTEMAS OPERATIVOS/2.1 Procesos.md": "🇩🇴",
-  "SISTEMAS OPERATIVOS/2.2 Señales.md": "📣"
+  "POO/7. Excepciones.md": "💪"
 }
