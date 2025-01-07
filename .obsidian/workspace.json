@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POO/Protips para el Final.md",
+                "file": "POO/6. Interfaces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Protips para el Final"
+              "title": "6. Interfaces"
             }
           },
           {
@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
   "right": {
     "id": "7c9412205df433aa",
@@ -176,6 +177,7 @@
   },
   "active": "33e00590b61801a8",
   "lastOpenFiles": [
+    "POO/Protips para el Final.md",
     "POO/3. Conjuntos de datos.md",
     "POO/5. Polimorfismo.md",
     "POO/6. Interfaces.md",
@@ -184,7 +186,6 @@
     "SISTEMAS OPERATIVOS/archivos/bibliografia/2-Sistemas operativos moderno 3ed Tanenbaum.pdf",
     "POO/2. Clases y tipos de datos.md",
     "SISTEMAS OPERATIVOS/SOIFINAL.pdf",
-    "POO/Protips para el Final.md",
     "POO/7. Excepciones.md",
     "POO/archivos/bibliografia/3. Conjuntos de datos - Arrays, colecciones, listas, conjuntos y mapas.pdf",
     "POO/archivos/bibliografia/4. Herencia - Jerarquías de clases, composición y abstracción.pdf",
