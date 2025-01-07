@@ -56,7 +56,7 @@ public class Main{
 	public void main(String[] args){
 		mapa= new HashMap<>();
 		
-		Set<Map.Entry<Integer,String> valores = mapa.entrySet();
+		Set<Map.Entry<Integer,String>> valores = mapa.entrySet();
 		for(Map.Entry dupla: valores){
 			String str = dupla.getValue(); //dupla.getKey();
 			System.out.println(str);

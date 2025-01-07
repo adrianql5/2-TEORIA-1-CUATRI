@@ -4,37 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "0b967d6c56912b2e",
+        "id": "ad3ef77f5b125e0e",
         "type": "tabs",
         "children": [
           {
-            "id": "1cec848948042643",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "BASES DE DATOS/Archivos/bibliografia/TODOS LOS MER MR y SQL_300722145848-2.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "TODOS LOS MER MR y SQL_300722145848-2"
-            }
-          },
-          {
-            "id": "9a2aec057fb5f45e",
+            "id": "33e00590b61801a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BASES DE DATOS/6. Structured Query Languaje (SQL) Consultas.md",
+                "file": "POO/Protips para el Final.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Structured Query Languaje (SQL) Consultas"
+              "title": "Protips para el Final"
+            }
+          },
+          {
+            "id": "b4bf166dc2987a91",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,53 +174,52 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "9a2aec057fb5f45e",
+  "active": "33e00590b61801a8",
   "lastOpenFiles": [
-    "SISTEMAS OPERATIVOS/1. INTRODUCCIÓN A LOS SISTEMAS OPERATIVOS.md",
+    "POO/3. Conjuntos de datos.md",
+    "POO/5. Polimorfismo.md",
+    "POO/6. Interfaces.md",
+    "POO/1. Encapsulación.md",
+    "POO/4. Herencia.md",
+    "SISTEMAS OPERATIVOS/archivos/bibliografia/2-Sistemas operativos moderno 3ed Tanenbaum.pdf",
+    "POO/2. Clases y tipos de datos.md",
     "SISTEMAS OPERATIVOS/SOIFINAL.pdf",
+    "POO/Protips para el Final.md",
+    "POO/7. Excepciones.md",
+    "POO/archivos/bibliografia/3. Conjuntos de datos - Arrays, colecciones, listas, conjuntos y mapas.pdf",
+    "POO/archivos/bibliografia/4. Herencia - Jerarquías de clases, composición y abstracción.pdf",
+    "POO/archivos/bibliografia/6. Interfaces -Abstracción e independencia de clases.pdf",
+    "POO/archivos/bibliografia/7. Excepciones - Gestión de errores y excepciones.pdf",
+    "Calendario/2025-01-23 bd .md",
+    "Calendario/2025-01-22 bd como un cabron.md",
+    "Calendario/2025-01-21 redes.md",
+    "Calendario/2025-01-20 redes.md",
+    "Calendario/2025-01-19 aed.md",
+    "Calendario/2025-01-18 aed como mono.md",
+    "Calendario/2025-01-17 REDES EJERCICIOS.md",
+    "Calendario/2025-01-17 BD TEORIA.md",
+    "Calendario/2025-01-16 teoria redes.md",
+    "Calendario/2025-01-16 CUBATA.md",
+    "Calendario/2025-01-15 SOI.md",
+    "Calendario/2025-01-14 SOI.md",
+    "Calendario/2025-01-13 SOI.md",
+    "Calendario/2025-01-12 SOI.md",
+    "Calendario/2025-01-11 SOI.md",
+    "Calendario/2025-01-10 SOI.md",
+    "Calendario/2025-01-10 BD TEORIA.md",
     "SOIFINAL.pdf",
-    "BASES DE DATOS/6. Structured Query Languaje (SQL) Consultas.md",
-    "BASES DE DATOS/5. Structured Query Lanjuaje (SQL), Tablas y Vistas.md",
-    "BASES DE DATOS/7. Structured Query Languaje (SQL) Otros Elementos.md",
-    "BASES DE DATOS/8. Normalización del Modelo Relacional.md",
-    "BASES DE DATOS/5.1 Ejercicios sql.md",
-    "BASES DE DATOS/9. Sistemas de Bases de Datos.md",
     "BASES DE DATOS/Archivos/bibliografia/TODOS LOS MER MR y SQL_300722145848-2.pdf",
-    "BASES DE DATOS/2. MODELO RELACIONAL.md",
-    "BASES DE DATOS/1.1 Casos MER.md",
-    "BASES DE DATOS/1. MODELO ENTIDAD RELACIÓN.md",
-    "REDES/4. Capa de Red.md",
-    "REDES/2. Capa de Aplicación.md",
-    "REDES/3. Capa de Transporte.md",
-    "REDES/2.1 Ejercicios Capa de Aplicación.md",
     "REDES/archivos/bibliografia/Tema2Redes.pdf",
-    "REDES/5. Capa de Enlace.md",
-    "REDES/4.1 Ejercicios Capa de Red.md",
     "REDES/archivos/bibliografia/[1] Redes de Computadores.pdf",
-    "REDES/1. Introducción.md",
-    "[.md",
     "REDES/archivos/imagenes/Pasted image 20241231143106.png",
     "REDES/archivos/imagenes/Pasted image 20241231130321.png",
     "REDES/archivos/imagenes/Pasted image 20241231124816.png",
-    "REDES/archivos/bibliografia/Tema4Redes.pdf",
-    "POO/2. Clases y tipos de datos.md",
-    "POO/3. Conjuntos de datos.md",
-    "POO/4. Herencia.md",
-    "REDES/archivos/bibliografia/tcpip-nico.pdf",
     "REDES/archivos/imagenes/Pasted image 20241230190237.png",
-    "Sin título.md",
-    "Tareas.md",
-    "Sin título 1.md",
-    "a.md",
     "REDES/archivos/imagenes/Pasted image 20241230164029.png",
     "REDES/archivos/imagenes/Pasted image 20241230154927.png",
     "REDES/archivos/imagenes/Pasted image 20241230113908.png",
-    "o.md",
     "REDES/archivos/imagenes/Pasted image 20241229170931.png",
     "REDES/archivos/imagenes/Pasted image 20241229170914.png",
-    "REDES/archivos/imagenes/Pasted image 20241229170859.png",
-    "REDES/archivos/bibliografia/Tema3Redes.pdf",
-    "REDES/archivos/bibliografia/Tema1Redes.pdf",
-    "AED/archivos/bibliografia/9.EstrategiasAlgoritmicasv2.pdf"
+    "REDES/archivos/imagenes/Pasted image 20241229170859.png"
   ]
 }
