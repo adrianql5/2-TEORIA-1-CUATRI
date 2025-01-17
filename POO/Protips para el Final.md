@@ -1,10 +1,5 @@
 # Conceptos Clave de Teoría
 
->[!Después de haber hecho el examen de Enero del 2024]
->**La parte práctica bastante asequible**
->**La parte teórica fue un cigarro, hay q llevar las cosas muy claras y probar en casiña a explotar el código de diferentes formas, como poner un constructor en una superclase y en la subclase no y viceversa y hacer cosas raras.**
->**En general es largo pero da tiempo, Manolo Lama ayuda bastante.**
-
 ## Encapsulación
 ## Wrappers-> Unboxing y Autoboxing
 ## Referencias

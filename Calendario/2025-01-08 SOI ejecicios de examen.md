@@ -1,8 +1,0 @@
----
-title: SOI ejecicios de examen
-allDay: false
-startTime: 15:00
-endTime: 20:30
-date: 2025-01-08
-completed: null
----
