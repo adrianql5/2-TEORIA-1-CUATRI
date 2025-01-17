@@ -1,8 +1,9 @@
 {
-  "theme": "obsidian",
-  "cssTheme": "Obsidian Nord",
+  "theme": "moonstone",
+  "cssTheme": "Minimal",
   "interfaceFontFamily": "Verdana",
   "textFontFamily": "Verdana",
   "baseFontSize": 22,
-  "monospaceFontFamily": "Verdana"
+  "monospaceFontFamily": "Verdana",
+  "baseFontSizeAction": false
 }
