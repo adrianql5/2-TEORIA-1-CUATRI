@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REDES/2. Capa de Aplicación.md",
+                "file": "REDES/4. Capa de Red.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Capa de Aplicación"
+              "title": "4. Capa de Red"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REDES/2. Capa de Aplicación.md",
+                "file": "REDES/4. Capa de Red.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 2. Capa de Aplicación"
+              "title": "Enlaces entrantes de 4. Capa de Red"
             }
           },
           {
@@ -167,9 +167,20 @@
   },
   "active": "54dd279907bb0aab",
   "lastOpenFiles": [
-    "REDES/1. Introducción.md",
-    "REDES/2. Capa de Aplicación.md",
+    "REDES/5. Capa de Enlace.md",
+    "REDES/4. Capa de Red.md",
     "REDES/3. Capa de Transporte.md",
+    "REDES/archivos/imagenes/Pasted image 20250118172336.png",
+    "REDES/archivos/imagenes/Pasted image 20250118172256.png",
+    "REDES/archivos/imagenes/Pasted image 20250118172206.png",
+    "REDES/archivos/imagenes/Pasted image 20250118171206.png",
+    "REDES/archivos/imagenes/Pasted image 20250118170617.png",
+    "REDES/archivos/imagenes/Pasted image 20250118165635.png",
+    "REDES/archivos/imagenes/Pasted image 20250118163434.png",
+    "REDES/archivos/imagenes/Pasted image 20250118163415.png",
+    "REDES/archivos/imagenes/Pasted image 20250118163323.png",
+    "REDES/2. Capa de Aplicación.md",
+    "REDES/1. Introducción.md",
     "REDES/3.1 Ejercicios Capa de Transporte.md",
     "REDES/0. BOLETIN DE REDES.md",
     "BASES DE DATOS/8. Normalización del Modelo Relacional.md",
@@ -178,9 +189,7 @@
     "BASES DE DATOS/3. Transformación de MER  a MR.md",
     "BASES DE DATOS/4. Lenguajes Formales de Consulta.md",
     "BASES DE DATOS/4.1 Ejercicios Álgebra Relacional.md",
-    "REDES/5. Capa de Enlace.md",
     "REDES/4.1 Ejercicios Capa de Red.md",
-    "REDES/4. Capa de Red.md",
     "REDES/2.1 Ejercicios Capa de Aplicación.md",
     "REDES/1.1 Ejercicios Introducción.md",
     "POO/Protips para el Final.md",
@@ -193,7 +202,6 @@
     "POO/1. Encapsulación.md",
     "AED/8. Estrategias Algorítmicas.md",
     "AED/7. Tablas Hash.md",
-    "AED/6. Grafos II.md",
     "Archivos/bibliografia",
     "Archivos",
     "SISTEMAS OPERATIVOS/SOIFINAL.pdf",
@@ -203,15 +211,6 @@
     "SISTEMAS OPERATIVOS/archivos/bibliografia/Andrew S. Tanenbaum - Sistemas Operativos Modernos 2º Edición Solucionario.PDF",
     "SISTEMAS OPERATIVOS/archivos/bibliografia/2-Sistemas operativos moderno 3ed Tanenbaum.pdf",
     "REDES/archivos/bibliografia/Tema4Redes.pdf",
-    "POO/archivos/imagenes/Pasted image 20250107102231.png",
-    "POO/archivos/imagenes/Pasted image 20250107102130.png",
-    "REDES/archivos/imagenes/Pasted image 20241231143106.png",
-    "REDES/archivos/imagenes/Pasted image 20241231130321.png",
-    "REDES/archivos/imagenes/Pasted image 20241231124816.png",
-    "REDES/archivos/imagenes/Pasted image 20241230190237.png",
-    "REDES/archivos/imagenes/Pasted image 20241230164029.png",
-    "REDES/archivos/imagenes/Pasted image 20241230154927.png",
-    "REDES/archivos/imagenes/Pasted image 20241230113908.png",
-    "REDES/archivos/imagenes/Pasted image 20241229170931.png"
+    "POO/archivos/imagenes/Pasted image 20250107102231.png"
   ]
 }
