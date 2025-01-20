@@ -22,3 +22,4 @@
 - El examen final es un cachondeo, lleva repitiendolo desde el 2017 (a los de IA también les pone el mismo examen calcao menos la última pregunta).
 - Es más fácil suspender uno de los tests del curso que el final.
 - Si te la estudias el día antes por la tarde la apruebas sobrado.
+- La profesora es maja, no renta ir a las teóricas, y quiere ella incluso más que tu que no suspendas la asignatura.
