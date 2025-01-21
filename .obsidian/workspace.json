@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REDES/2. Capa de Aplicación.md",
+                "file": "REDES/3. Capa de Transporte.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Capa de Aplicación"
+              "title": "3. Capa de Transporte"
             }
           }
         ]
@@ -167,11 +167,11 @@
   },
   "active": "868618ecdd18a8ca",
   "lastOpenFiles": [
-    "REDES/archivos/imagenes/Pasted image 20250121163148.png",
-    "REDES/2. Capa de Aplicación.md",
-    "REDES/2.1 Ejercicios Capa de Aplicación.md",
-    "REDES/3. Capa de Transporte.md",
     "REDES/4. Capa de Red.md",
+    "REDES/3. Capa de Transporte.md",
+    "REDES/2.1 Ejercicios Capa de Aplicación.md",
+    "REDES/2. Capa de Aplicación.md",
+    "REDES/archivos/imagenes/Pasted image 20250121163148.png",
     "REDES/5. Capa de Enlace.md",
     "REDES/1.1 Ejercicios Introducción.md",
     "REDES/1. Introducción.md",
@@ -211,7 +211,6 @@
     "SISTEMAS OPERATIVOS/archivos/bibliografia/SOIFINAL.pdf",
     "SISTEMAS OPERATIVOS/archivos/bibliografia/Apuntes SOI 22-23_270923124452.pdf",
     "SISTEMAS OPERATIVOS/archivos/bibliografia/Andrew S. Tanenbaum - Sistemas Operativos Modernos 2º Edición Solucionario.PDF",
-    "SISTEMAS OPERATIVOS/archivos/bibliografia/2-Sistemas operativos moderno 3ed Tanenbaum.pdf",
-    "POO/archivos/imagenes/Pasted image 20250107102231.png"
+    "SISTEMAS OPERATIVOS/archivos/bibliografia/2-Sistemas operativos moderno 3ed Tanenbaum.pdf"
   ]
 }
