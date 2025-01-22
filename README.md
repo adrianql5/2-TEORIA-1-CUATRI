@@ -3,6 +3,7 @@
 
 
 ## POO
+- Si la asignatura se llamase Monopoly sería mucho mas preciso que POO.
 - Teoricas no rentan, pero el profe explica bien.
 - Programa en java sin saber programar en java define la asignatura
 - El proyecto está guapo pero quita muchas horas
@@ -25,7 +26,7 @@
 - La profesora es maja, no renta ir a las teóricas, y quiere ella incluso más que tu que no suspendas la asignatura.
 
 ## Redes
-- En mi opinión segunda asignatura más jodida hasta la fecha
+- En mi opinión segunda asignatura más jodida hasta la fecha.
 - La materia está muy guay pero pierdes mucho tiempo intentando entender cosas (Control de Congestión, Dividir en Subredes), renta mirar videos de youtube (naseros sobretodo).
 - La información que dan es 0 y tienes que buscarte la vida para entender todo y que sea fiable (mis apuntes creo q recogen todo bastante bien).
 - Mirarse todas las chorradas de teoría porque las suele preguntar en el final (ÌPsec, DHCP, BGP en nuestro caso).
