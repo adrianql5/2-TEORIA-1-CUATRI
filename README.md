@@ -32,3 +32,9 @@
 - Mirarse todas las chorradas de teoría porque las suele preguntar en el final (ÌPsec, DHCP, BGP en nuestro caso).
 - El profesor me parece el mejor hasta la fecha (Cavaleiro) y enseña bien, eso si, no considero que merezca mucho la pena ir a las clases teóricas a pesar de que explique bien (único si llevais todo al día y teneis dudas que hacerle, lo que es altamente improbable).
 - El final suele seguir la estética de los que están subidos en el drive (ni muy complicado ni muy dificil).
+
+## Bases de datos
+- Tiene mucha carga de trabajo aburridísima.
+- El examen final se divide en tres partes donde hay que saber teoría ( es aburridísimo), hacer un MER y SQL
+- La asignatura lo que es MER y SQL es interesante, luego hay 300 cosas teoricas que sobran.
+- El SQL del final suele ser bastante dificil.
