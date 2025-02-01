@@ -3,6 +3,7 @@
 
 
 ## POO
+- Si la asignatura se llamase Monopoly sería mucho mas preciso que POO.
 - Teoricas no rentan, pero el profe explica bien.
 - Programa en java sin saber programar en java define la asignatura
 - El proyecto está guapo pero quita muchas horas
@@ -23,3 +24,17 @@
 - Es más fácil suspender uno de los tests del curso que el final.
 - Si te la estudias el día antes por la tarde la apruebas sobrado.
 - La profesora es maja, no renta ir a las teóricas, y quiere ella incluso más que tu que no suspendas la asignatura.
+
+## Redes
+- En mi opinión segunda asignatura más jodida hasta la fecha.
+- La materia está muy guay pero pierdes mucho tiempo intentando entender cosas (Control de Congestión, Dividir en Subredes), renta mirar videos de youtube (naseros sobretodo).
+- La información que dan es 0 y tienes que buscarte la vida para entender todo y que sea fiable (mis apuntes creo q recogen todo bastante bien).
+- Mirarse todas las chorradas de teoría porque las suele preguntar en el final (ÌPsec, DHCP, BGP en nuestro caso).
+- El profesor me parece el mejor hasta la fecha (Cavaleiro) y enseña bien, eso si, no considero que merezca mucho la pena ir a las clases teóricas a pesar de que explique bien (único si llevais todo al día y teneis dudas que hacerle, lo que es altamente improbable).
+- El final suele seguir la estética de los que están subidos en el drive (ni muy complicado ni muy dificil).
+
+## Bases de datos
+- Tiene mucha carga de trabajo aburridísima.
+- El examen final se divide en tres partes donde hay que saber teoría ( es aburridísimo), hacer un MER y SQL
+- La asignatura lo que es MER y SQL es interesante, luego hay 300 cosas teoricas que sobran.
+- El SQL del final suele ser bastante dificil.
