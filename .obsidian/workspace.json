@@ -4,21 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "06af1a6e6b82b94f",
+        "id": "c0e8e0ef29a3e458",
         "type": "tabs",
         "children": [
           {
-            "id": "868618ecdd18a8ca",
+            "id": "32620b8ac5ed4437",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REDES/3. Capa de Transporte.md",
+                "file": "BASES DE DATOS/6. Structured Query Languaje (SQL) Consultas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Capa de Transporte"
+              "title": "6. Structured Query Languaje (SQL) Consultas"
+            }
+          },
+          {
+            "id": "8f75bbe85b6b91a3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "BASES DE DATOS/TODOS LOS MER MR y SQL_300722145848-2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "TODOS LOS MER MR y SQL_300722145848-2"
             }
           }
         ]
@@ -40,7 +52,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -77,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
   "right": {
     "id": "7c9412205df433aa",
@@ -165,27 +177,37 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "868618ecdd18a8ca",
+  "active": "32620b8ac5ed4437",
   "lastOpenFiles": [
+    "BASES DE DATOS/5. Structured Query Lanjuaje (SQL), Tablas y Vistas.md",
+    "BASES DE DATOS/7. Structured Query Languaje (SQL) Otros Elementos.md",
+    "BASES DE DATOS/8. Normalización del Modelo Relacional.md",
+    "BASES DE DATOS/6. Structured Query Languaje (SQL) Consultas.md",
+    "BASES DE DATOS/4.1 Ejercicios Álgebra Relacional.md",
+    "Sin título.md",
+    "BASES DE DATOS/9. Sistemas de Bases de Datos.md",
+    "BASES DE DATOS/TODOS LOS MER MR y SQL_300722145848-2.pdf",
+    "BASES DE DATOS/5.1 Ejercicios sql.md",
+    "BASES DE DATOS/4. Lenguajes Formales de Consulta.md",
+    "BASES DE DATOS/3.1 Casos Transformación MER a MR.md",
+    "BASES DE DATOS/3. Transformación de MER  a MR.md",
+    "BASES DE DATOS/2. MODELO RELACIONAL.md",
+    "BASES DE DATOS/1. MODELO ENTIDAD RELACIÓN.md",
+    "REDES/4.1 Ejercicios Capa de Red.md",
     "REDES/4. Capa de Red.md",
+    "REDES/0. BOLETIN DE REDES.md",
+    "REDES/5. Capa de Enlace.md",
     "REDES/3. Capa de Transporte.md",
     "REDES/2.1 Ejercicios Capa de Aplicación.md",
     "REDES/2. Capa de Aplicación.md",
     "REDES/archivos/imagenes/Pasted image 20250121163148.png",
-    "REDES/5. Capa de Enlace.md",
     "REDES/1.1 Ejercicios Introducción.md",
     "REDES/1. Introducción.md",
     "Teoría Redes.md",
-    "REDES/0. BOLETIN DE REDES.md",
     "REDES/3.1 Ejercicios Capa de Transporte.md",
     "REDES/archivos/ejercicios/Enunciados/ProtoTipoTCP.pdf",
     "AED/7. Tablas Hash.md",
     "AED/6. Grafos II.md",
-    "AED/4. Árboles equilibrados B y B+.md",
-    "AED/3. Árboles Equilibrados AVL.md",
-    "AED/2. ESTRUCTURAS PARA BÚSQUEDA.md",
-    "AED/1. ÁRBOLES BINARIOS.md",
-    "BASES DE DATOS/8. Normalización del Modelo Relacional.md",
     "REDES/archivos/imagenes/Pasted image 20250118172336.png",
     "REDES/archivos/imagenes/Pasted image 20250118172256.png",
     "REDES/archivos/imagenes/Pasted image 20250118172206.png",
@@ -195,15 +217,6 @@
     "REDES/archivos/imagenes/Pasted image 20250118163434.png",
     "REDES/archivos/imagenes/Pasted image 20250118163415.png",
     "REDES/archivos/imagenes/Pasted image 20250118163323.png",
-    "BASES DE DATOS/TODOS LOS MER MR y SQL_300722145848-2.pdf",
-    "BASES DE DATOS/2. MODELO RELACIONAL.md",
-    "BASES DE DATOS/3. Transformación de MER  a MR.md",
-    "BASES DE DATOS/4. Lenguajes Formales de Consulta.md",
-    "BASES DE DATOS/4.1 Ejercicios Álgebra Relacional.md",
-    "REDES/4.1 Ejercicios Capa de Red.md",
-    "POO/Protips para el Final.md",
-    "POO/7. Excepciones.md",
-    "POO/6. Interfaces.md",
     "Archivos/bibliografia",
     "Archivos",
     "SISTEMAS OPERATIVOS/SOIFINAL.pdf",
