@@ -24,6 +24,7 @@
 - Es más fácil suspender uno de los tests del curso que el final.
 - Si te la estudias el día antes por la tarde la apruebas sobrado.
 - La profesora es maja, no renta ir a las teóricas, y quiere ella incluso más que tu que no suspendas la asignatura.
+- Cuidado con el plagio, sobre todo si sabeis que corrige las prácticas Maria José, si las corrige cualquier otro no suele mirar el plagio.
 
 ## Redes
 - En mi opinión segunda asignatura más jodida hasta la fecha.
