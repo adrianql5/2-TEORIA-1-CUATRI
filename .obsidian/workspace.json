@@ -4,36 +4,66 @@
     "type": "split",
     "children": [
       {
-        "id": "c0e8e0ef29a3e458",
-        "type": "tabs",
+        "id": "cb276203838e63aa",
+        "type": "split",
         "children": [
           {
-            "id": "32620b8ac5ed4437",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BASES DE DATOS/6. Structured Query Languaje (SQL) Consultas.md",
-                "mode": "source",
-                "source": false
+            "id": "a13eafa46eb6cad9",
+            "type": "tabs",
+            "dimension": 48.764258555133075,
+            "children": [
+              {
+                "id": "26cdff0fce72372e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "POO/3. Conjuntos de datos.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "3. Conjuntos de datos"
+                }
               },
-              "icon": "lucide-file",
-              "title": "6. Structured Query Languaje (SQL) Consultas"
-            }
+              {
+                "id": "1be696c492f1ce02",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "SISTEMAS OPERATIVOS/Examen 2025.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Examen 2025"
+                }
+              }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "8f75bbe85b6b91a3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "BASES DE DATOS/TODOS LOS MER MR y SQL_300722145848-2.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "TODOS LOS MER MR y SQL_300722145848-2"
-            }
+            "id": "429603a04166baf0",
+            "type": "tabs",
+            "dimension": 51.235741444866925,
+            "children": [
+              {
+                "id": "0d92832074627519",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "SISTEMAS OPERATIVOS/Ejercicios Prácticos.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Ejercicios Prácticos"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -56,7 +86,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -167,26 +197,51 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "32620b8ac5ed4437",
+  "active": "393cd686a448de50",
   "lastOpenFiles": [
+    "SISTEMAS OPERATIVOS/Resumen Teoría.pdf",
+    "POO/bibliografia/POO_3_Conjuntos_datos.pdf",
+    "SISTEMAS OPERATIVOS/Examen 2025.md",
+    "SISTEMAS OPERATIVOS/Examen 2025.pdf",
+    "SISTEMAS OPERATIVOS/Ejercicios Prácticos.pdf",
+    "POO/3. Conjuntos de datos.md",
+    "POO/archivos/imagenes/Pasted image 20250618185012.png",
+    "POO/2. Clases y tipos de datos.md",
+    "POO/bibliografia/POO_2_Clases_tdd.pdf",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "POO/archivos/imagenes/Pasted image 20250618180239.png",
+    "POO/archivos/imagenes/Pasted image 20250618174634.png",
+    "POO/archivos/imagenes/Pasted image 20250618172733.png",
+    "POO/archivos/imagenes/Pasted image 20250617214635.png",
+    "POO/archivos/imagenes/Pasted image 20250617214621.png",
+    "POO/archivos/imagenes/Pasted image 20250617214556.png",
+    "POO/archivos/imagenes/Pasted image 20250617154813.png",
+    "POO/1. Encapsulación.md",
+    "POO/bibliografia/POO_1_Encapsulacion.pdf",
+    "POO/archivos/imagenes/Pasted image 20250615221753.png",
+    "POO/archivos/imagenes/Pasted image 20250615175148.png",
+    "POO/bibliografia/POO_7_Excepciones.pdf",
+    "POO/bibliografia/POO_6_Interfaces.pdf",
+    "POO/bibliografia/POO_5_Polimorfismo.pdf",
+    "POO/bibliografia/POO_4_Herencia.pdf",
+    "BASES DE DATOS/Examen 2025.md",
+    "BASES DE DATOS/9. Sistemas de Bases de Datos.md",
+    "POO/Protips para el Final.md",
+    "BASES DE DATOS/6. Structured Query Languaje (SQL) Consultas.md",
+    "Sin título.md",
     "BASES DE DATOS/5. Structured Query Lanjuaje (SQL), Tablas y Vistas.md",
     "BASES DE DATOS/7. Structured Query Languaje (SQL) Otros Elementos.md",
     "BASES DE DATOS/8. Normalización del Modelo Relacional.md",
-    "BASES DE DATOS/6. Structured Query Languaje (SQL) Consultas.md",
     "BASES DE DATOS/4.1 Ejercicios Álgebra Relacional.md",
-    "Sin título.md",
-    "BASES DE DATOS/9. Sistemas de Bases de Datos.md",
-    "BASES DE DATOS/TODOS LOS MER MR y SQL_300722145848-2.pdf",
     "BASES DE DATOS/5.1 Ejercicios sql.md",
     "BASES DE DATOS/4. Lenguajes Formales de Consulta.md",
     "BASES DE DATOS/3.1 Casos Transformación MER a MR.md",
@@ -196,34 +251,6 @@
     "REDES/4.1 Ejercicios Capa de Red.md",
     "REDES/4. Capa de Red.md",
     "REDES/0. BOLETIN DE REDES.md",
-    "REDES/5. Capa de Enlace.md",
-    "REDES/3. Capa de Transporte.md",
-    "REDES/2.1 Ejercicios Capa de Aplicación.md",
-    "REDES/2. Capa de Aplicación.md",
-    "REDES/archivos/imagenes/Pasted image 20250121163148.png",
-    "REDES/1.1 Ejercicios Introducción.md",
-    "REDES/1. Introducción.md",
-    "Teoría Redes.md",
-    "REDES/3.1 Ejercicios Capa de Transporte.md",
-    "REDES/archivos/ejercicios/Enunciados/ProtoTipoTCP.pdf",
-    "AED/7. Tablas Hash.md",
-    "AED/6. Grafos II.md",
-    "REDES/archivos/imagenes/Pasted image 20250118172336.png",
-    "REDES/archivos/imagenes/Pasted image 20250118172256.png",
-    "REDES/archivos/imagenes/Pasted image 20250118172206.png",
-    "REDES/archivos/imagenes/Pasted image 20250118171206.png",
-    "REDES/archivos/imagenes/Pasted image 20250118170617.png",
-    "REDES/archivos/imagenes/Pasted image 20250118165635.png",
-    "REDES/archivos/imagenes/Pasted image 20250118163434.png",
-    "REDES/archivos/imagenes/Pasted image 20250118163415.png",
-    "REDES/archivos/imagenes/Pasted image 20250118163323.png",
-    "Archivos/bibliografia",
-    "Archivos",
-    "SISTEMAS OPERATIVOS/SOIFINAL.pdf",
-    "REDES/archivos/ejercicios/SolucionesPropias/QuirogaLinaresAdrian_CheckSum.pdf",
-    "SISTEMAS OPERATIVOS/archivos/bibliografia/SOIFINAL.pdf",
-    "SISTEMAS OPERATIVOS/archivos/bibliografia/Apuntes SOI 22-23_270923124452.pdf",
-    "SISTEMAS OPERATIVOS/archivos/bibliografia/Andrew S. Tanenbaum - Sistemas Operativos Modernos 2º Edición Solucionario.PDF",
-    "SISTEMAS OPERATIVOS/archivos/bibliografia/2-Sistemas operativos moderno 3ed Tanenbaum.pdf"
+    "REDES/5. Capa de Enlace.md"
   ]
 }
